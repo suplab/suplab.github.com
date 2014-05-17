@@ -13,7 +13,7 @@ image:
 ---
 
 Suplab Debnath
-Programmer Analyst,
+Programmer Analyst,\n
 Tata Consultancy Services
 
 ## TECHIE.GEEK.PHOTOGRAPHER.TREKKER:
