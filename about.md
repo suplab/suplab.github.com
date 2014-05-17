@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/
-title: About the Theme
+title: About Me
 tagline: Minimal Mistakes, a Jekyll Theme
 tags: [about, Jekyll, theme, responsive]
 modified: 9-9-2013
@@ -12,19 +12,22 @@ image:
   creditlink: #
 ---
 
-Jekyll is pretty rad and figured releasing a cleaned up version of [my site](http://mademistakes.com)[^1] as a theme for others to hack and build on would be fun. So here be that theme --- I call it **Minimal Mistakes**, a responsive Jekyll theme with large featured images and solid typography. 
+Suplab Debnath
+Programmer Analyst,
+Tata Consultancy Services
 
-## Minimal Mistakes is all about:
+## TECHIE.GEEK.PHOTOGRAPHER.TREKKER:
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments --- content first.
-* Large feature images for posts and pages.
-* Author sidebar to pimp your bio, photo[^2], and social media links.
-* Simple and clear permalink structure *(ie: domain.com/category/post-title)*
+I'm an oddball really!! I whole heartedly embrace technology, and yet like to spend lonely nights on mountain tops, away from civilisation. :P
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+Photography is kind of a passion for me, a way for me to unwind. It all started with my grandfather's minolta film SLR, and my life has never been the same.
 
-[^1]: Since open sourcing this theme I have released a couple other Jekyll themes. My website [Made Mistakes](http://mademistakes.com) is currently using a modified version of my [So Simple Theme](http://mmistakes.github.io/so-simple-theme/).
+I'm not really an adventure junkie, but I do like to go on treks and hikes, primarily because each trek is a journey, inwhich I discover myself.
 
-[^2]: Fancy avatars provided by [Brandon Mathis](http://brandonmathis.com/projects/fancy-avatars/demo/) under a [Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/).
+Finally I believe in a very in a very simple philosophy, which I imbibe regularly---
+
+"The world ain't all sunshine and rainbows. It's a very mean and nasty place and I don't care how tough you are it will beat you to your knees and keep you there permanently if you let it. You, me, or nobody is gonna hit as hard as life. But it ain't about how hard you hit. It's about how hard you can get hit and keep moving forward. How much you can take and keep moving forward. That's how winning is done!" - Rocky Balboa
+
+
+<a markdown="0" href="#" class="btn">More about Me :)</a>
+
