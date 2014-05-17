@@ -1,0 +1,44 @@
+--- 
+meta: 
+  yourls_tweeted: "1"
+  _syntaxhighlighter_encoded: "1"
+  yourls_shorturl: http://suplab.in/s/p
+  _edit_last: "1"
+layout: post
+published: true
+type: post
+status: publish
+tags: 
+- JSON
+- PHP
+- POST
+- Tech
+title: POST JSON data in PHP
+---
+I was working with PHP the other day and had to send JSON data, and got stuck at a problem: How to send a POST request from PHP with correct-formatted JSON data?
+Now you can't send post fields, because you want to send JSON. So the solution?
+
+Well the solution is like this:
+<strong>1. We create the correct JSON data
+2. Set that as the body of the POST request
+3. Set the headers correctly so that the server understands what we sent</strong>
+
+Here's how we do it:
+[php]
+$data = array(&quot;first_name&quot; =&gt; &quot;Suplab&quot;, &quot;last_name&quot; =&gt; &quot;Debnath&quot;);                                                                    
+$data_string = json_encode($data);                                                                                   
+ 
+$ch = curl_init('http://api.local/rest/users');                                                                      
+curl_setopt($ch, CURLOPT_CUSTOMREQUEST, &quot;POST&quot;);                                                                     
+curl_setopt($ch, CURLOPT_POSTFIELDS, $data_string);                                                                  
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);                                                                      
+curl_setopt($ch, CURLOPT_HTTPHEADER, array(                                                                          
+    'Content-Type: application/json',                                                                                
+    'Content-Length: ' . strlen($data_string))                                                                       
+);                                                                                                                   
+ 
+$result = curl_exec($ch);
+[/php]
+
+To understand <code>curl_setopt()</code> better you can visit <a href="http://php.net/manual/en/function.curl-setopt.php" target="_blank">here</a>.
+What we are trying to do is make a POST request, but the body of the request is set to the json-encoded data, and the setting the proper headers to describe the request body. The <code>CURLOPT_RETURNTRANSFER</code> is used so that the response from the server gets thrown into <code>$result</code> rather than get echoed.

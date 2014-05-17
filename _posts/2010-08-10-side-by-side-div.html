@@ -1,0 +1,49 @@
+--- 
+meta: 
+  _wp_old_slug: ""
+  _syntaxhighlighter_encoded: "1"
+  yourls_shorturl: http://suplab.in/s/6
+  _edit_last: "1"
+layout: post
+published: true
+type: post
+status: publish
+permalink: /blog/2010/08/side-by-side-div/
+tags: 
+- CSS
+- designing
+- div
+- float
+- HTML
+- Tech
+title: Side by Side Div?
+---
+Alright my friend have been asking me this question for quite sometime now :
+
+
+<blockquote>How do you put two divs side by side?</blockquote>
+It is really simple and there are different ways to do it, but personally I prefer to use a certain property of CSS called <strong>float</strong>. The float property has two values, namely <em>left</em> and <em>right</em>.
+<br />
+And here is how it is achieved:
+<br />
+<h2>The Code</h2>
+In your css create 2 divs and call them, say, <strong>lefty</strong> and <strong>righty</strong>
+{% highlight css lineos %}
+#lefty{
+        float:left;
+        background:#ff0000;
+        color:#ffffff;
+        width:130px;
+}
+#righty{
+        float:right;
+        background:#0000ff;
+        color:#ffffff;
+        width:130px;
+}
+{% endhighlight %}
+In your HTML file just call the two divs and use them, as you wish.
+<h2>And hopefully your result will be</h2>
+<code><div style="float:left;background:#ff0000;color:#ffffff;width:130px;">Div 1</div>
+<div style="float:right;background:#0000ff;color:#ffffff;width:130px;">Div 2</div></code>
+<br><br><br><br><br>

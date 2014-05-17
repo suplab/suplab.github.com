@@ -1,0 +1,138 @@
+--- 
+meta: 
+  _wp_old_slug: ""
+  _syntaxhighlighter_encoded: "1"
+  yourls_tweeted: "1"
+  yourls_shorturl: http://suplab.in/s/3
+  _edit_last: "1"
+layout: post
+published: true
+type: post
+status: publish
+tags: 
+- GD
+- PHP
+- Tech
+title: Graph using GD
+---
+{% include JB/setup %}
+
+
+This tutorial explains how to create a simple graph using PHP.
+<br><br>
+This is a graph generator function which can be used to generate a  graph. The function uses GD library of PHP.
+<br><br>
+The function takes two inputs, a <strong>$question</strong> variable an  an <strong>$answers</strong> array.
+The function is given below.
+<br><br>
+{% highlight php lineos %}
+<?php
+ function draw_chart($question, $answers) {
+
+ // define colors to draw the bars
+ $colors = array(array(255,102,0), array(0,153,0),
+ array(51,51,204), array(255,0,51),
+ array(255,255,0), array(102,255,255),
+ array(153,0,204));
+
+ // calculate total no. of votes
+ $total = array_sum($answers['votes']);
+
+ // define some spacing values and other magic numbers
+ $padding = 5;
+ $line_width = 20;
+ $scale = $line_width * 7.5;
+ $bar_height = 10;
+
+ $x = $y = $padding;
+
+ // allocate a large palette for drawing, since we don't know
+ // the image length ahead of time
+ $image = ImageCreate(150, 500);
+
+ // define colors for background and text
+ $bg_color = ImageColorAllocate($image, 236, 236, 228);
+ $text = ImageColorAllocate($image, 104, 104, 75);
+
+ // print the question
+ // this is essential if the question takes multiple lines
+ $wrapped = explode(&quot;\n&quot;, wordwrap($question, $line_width));
+ foreach ($wrapped as $line) {
+ ImageString($image, 3, $x, $y , $line, $text);
+ $y += 12;
+ }
+
+ $y += $padding; // let's put a little space after the question
+
+ // print the answers
+ for ($i = 0; $i &lt; count($answers['answer']); $i++) {
+
+ // format percentage
+ $percent = sprintf('%1.1f', 100*$answers['votes'][$i]/$total);
+ $bar = sprintf('%d', $scale*$answers['votes'][$i]/$total);
+
+ // grab color
+ $c = $i % count($colors); // handle cases with more bars than  colors
+ $text_color = ImageColorAllocate($image, $colors[$c][0],  $colors[$c][1], $colors[$c][2]);
+
+ // draw bar and percentage numbers
+ ImageFilledRectangle($image, $x, $y, $x + $bar, $y +  $bar_height, $text_color);
+ ImageString($image, 3, $x + $bar + $padding, $y, &quot;$percent%&quot;,  $text);
+
+ $y += 12; // let's put a little space after the bar
+
+ // print answer
+ $wrapped = explode(&quot;\n&quot;, wordwrap($answers['answer'][$i],  $line_width));
+ foreach ($wrapped as $line) {
+ ImageString($image, 2, $x, $y, $line, $text);
+ $y += 12; // let's put a little space after the answer
+ }
+
+ $y += 7; // let's put a little space after each option
+ }
+
+ // crop image by copying it
+ $chart = ImageCreate(150, $y);
+ ImageCopy($chart, $image, 0, 0, 0, 0, 150, $y);
+
+ // deliver image
+ header ('Content-type: image/png');
+ ImagePNG($chart);
+
+ // clean up
+ ImageDestroy($image);
+ ImageDestroy($chart);
+ }
+ ?>
+ {% endhighlight %}
+<br><br>
+Now to declare and initialise the <strong>$question</strong> and <strong>$answer</strong> variable and array.
+<br><br>
+{% highlight php lineos %}
+<?php
+ $question = 'What is most popular framework of php?';
+
+ $answers['answer'][  ] = 'Cakephp';
+ $answers['votes'][  ]  = 18;
+
+ $answers['answer'][  ] = 'Zend';
+ $answers['votes'][  ]  = 30;
+
+ $answers['answer'][  ] = 'Yii';
+ $answers['votes'][  ]  = 5;
+
+ $answers['answer'][  ] = 'Codelighter';
+ $answers['votes'][  ]  = 15;
+?>
+
+ {% endhighlight %}
+<br><br>
+Now to call the function.
+<br>
+{% highlight php lineos %}
+<?php
+ draw_chart($question, $answers);
+?>
+ {% endhighlight %}
+<br><br>
+Simple isn't it!!!

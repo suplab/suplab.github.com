@@ -1,0 +1,86 @@
+--- 
+meta: 
+  _wp_old_slug: ""
+  yourls_tweeted: "1"
+  _syntaxhighlighter_encoded: "1"
+  yourls_shorturl: http://suplab.in/s/7
+  _edit_last: "1"
+layout: post
+published: true
+type: post
+status: publish
+tags: 
+- GD
+- PHP
+- Tech
+title: A Simple Captcha using PHP
+---
+This tutorial shows you how to create a simple and effective captcha script using GD library.
+<br>
+{% highlight php lineos %}
+
+<?php
+
+session_start();
+
+$font = 'font/arialbd.ttf'; //True-type Font
+$width='120'; //Width of image
+$height='40'; //Height of image
+$characters='6'; //No. of Characters
+$font_size = $height * 0.50; //Font size to display
+/* List all possible characters, similar looking characters and vowels have been removed
+ * Removed 1 and l and i because there are confusing to users...
+ * Z, z also get confusing when rotated
+ * 0, O, and o are also confusing...
+ * g looks a lot like a 9 so i killed it
+ */
+$possible = 'ABCDEFGHJKLMNPQRSTUVWXY23456789bcdefhjkmnpqrstvwxy';
+
+// Generate the random pass-phrase
+ $pass_phrase = '';
+ $i = 0;
+ while ($i < $characters) {
+ $pass_phrase .= substr($possible, mt_rand(0, strlen($possible)-1), 1);
+ $i++;
+ }
+
+// Create the image
+ $image = @imagecreate($width, $height) or die('Cannot initialize new GD image stream');
+
+// Set the colours
+ $background_color = imagecolorallocate($image, 255, 255, 255);
+ $text_color = imagecolorallocate($image, 20, 40, 100);
+ $noise_color = imagecolorallocate($image, 100, 120, 180);
+
+// Generate random dots in background
+ for( $i=0; $i<($width*$height)/3; $i++ ) {
+ imagefilledellipse($image, mt_rand(0,$width), mt_rand(0,$height), 1, 1, $noise_color);
+ }
+
+// Generate random lines in background
+ for( $i=0; $i<($width*$height)/150; $i++ ) {
+ imageline($image, mt_rand(0,$width), mt_rand(0,$height), mt_rand(0,$width), mt_rand(0,$height), $noise_color);
+ }
+
+// Create textbox and add text
+ $textbox = imagettfbbox($font_size, 0, $font, $pass_phrase) or die('Error in imagettfbbox function');
+ $x = ($width - $textbox[4])/2;
+ $y = ($height - $textbox[5])/2;
+ imagettftext($image, $font_size, 0, $x, $y, $text_color, $font , $pass_phrase) or die('Error in imagettftext function');
+
+// Output the image as a PNG using a header
+ header('Content-Type: image/png');
+ imagepng($image);
+
+// Clean up
+ imagedestroy($image);
+
+// Store the encrypted pass-phrase in a session variable
+ $_SESSION['pass_phrase'] = md5($pass_phrase);
+
+?>
+{% endhighlight %}
+
+<br>
+
+Give it a try, the output is impressive</pre>

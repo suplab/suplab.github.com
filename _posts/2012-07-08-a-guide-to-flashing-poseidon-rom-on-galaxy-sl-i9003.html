@@ -1,0 +1,141 @@
+--- 
+meta: 
+  layout: sidebar-none
+  hide_post_image: default
+  yourls_shorturl: http://suplab.in/s/1
+  post_color: default
+  hide_post_meta: default
+  hide_post_date: default
+  _edit_last: "1"
+  unlink_post_title: default
+  hide_post_title: default
+layout: post
+published: true
+type: post
+status: publish
+permalink: /blog/2012/07/a-guide-to-flashing-poseidon-rom-on-galaxy-sl-i9003/
+tags: 
+- Android
+- cROM
+- Poseidon
+- Tech
+title: A guide to flashing Poseidon ROM on Galaxy SL i9003
+---
+This post is a step by step guide to setting up <a href="http://www.facebook.com/poseidonrom" target="_blank">Blaqkarma's Poseidon ROM</a> on your Galaxy SL GT-i9003 phone. Go through the entire tutorial before commencing.
+
+<div style="font-size:25px;padding-top:10px;"><strong>Requisites:</strong></div>
+<ul>
+<li><a href="http://hotfile.com/dl/145780524/f7d1f45/I9003XXKPE.zip.html" target="_blank">XXKPE</a></li>
+<li><a href="http://hotfile.com/dl/145857619/824249e/I9003XXKPQ_I9003SERKPQ_SER.zip.html" target="_blank">XXKPQ</a>/<a href="http://hotfile.com/dl/148016499/9f88f11/I9003XXKPU_I9003SERKPU_SER.zip.html" target="_blank">XXKPU</a></li>
+<li><a href="http://www.mediafire.com/?17cte90zl3ml83d" target="_blank">CF-Root</a>/<a href=" http://bit.ly/UCK-GSL-v15" target="_blank">Ultra Chaos Kernel v15</a></li>
+<li><a href=" http://depositfiles.com/files/hcwp9s26w" target="_blank">Poseidon Rom</a></li>
+<li><a href="http://sourceforge.net/projects/teamacid/files/fb/flash/Odin3%20v1.85.zip/download" target="_blank">Odin v1.85</a></li>
+
+</ul>
+<div style="font-size:25px;"><strong>Note:</strong></div>
+<ul>
+	<li>The process involves flashing XXKPE followed by flashing XXKPQ or XXKPU. Both processes are explained below.</li>
+	<li>XXKPE will convert any file system you have to rfs.</li>
+	<li>XXKPU/XXKPQ and XXKPE both need to be extracted to some desired location.</li>
+	<li>CF-Root and Poseidon ROM need not be extracted.</li>
+	<li>Put the Poseidon zipped file in your external SD card.</li>
+	<li>Wipe cache and factory reset by going to recovery mode (Home button + Volume Up + Power button) after flashing each XXKPE, XXKPU/XXKPQ, CF-Root and Poseidon otherwise you may face random reboots automatically.</li>
+	<li>You might want to give UC kernel a try for extra tweaks and improving the performance.</li>
+
+</ul>
+<div style="font-size:25px;"><strong>Set-Up before starting:</strong></div>
+<ol>
+	<li>Make sure the phone drivers are installed on your PC and Kies is not running.</li>
+	<li>Backup your apps and any important data.</li>
+	<li>Take a backup of contacts, by go to Contacts -&gt; Menu -&gt; Import/Export.</li>
+	<li>Take a backup of SMS via <strong>SMS Backup and Restore</strong> by Ritesh Sahu.</li>
+	<li>Copy contact generated vsf file and sms backup file to your PC or laptop.</li>
+	<li>Keep the usb cable at hand before starting.</li>
+	<li>Make sure your phone has more than 60% battery.</li>
+	<li>Switch Off your mobile.</li>
+
+</ol>
+<div style="font-size:25px;"><strong>Process:</strong></div>
+<br /><br />
+<div style="font-size:15px;padding-top:10px;"><u>Re-partitioning</u></div>
+<ol>
+	<li>Put your mobile in Downloading mode by Pressing Volume Down key + the Home key and holding them press the Power button.</li>
+	<li>Now Start ODIN.</li>
+	<li>Connect Mobile To Computer, you will see the ID:COM port light up in ODIN with port number on which your phone is connected.</li>
+	<li>Now click on PIT button and select <strong>latona_20110114.pit</strong> and check the Re-partition below the ID:COM and click on Start button.</li>
+	<li>It will show a blank screen once it’s flashed, now disconnect the phone from computer and remove your mobile battery and put it back.</li>
+</ol>
+<div style="font-size:15px;"><u>Flashing with XXKPE</u></div>
+<ol>
+	<li>Put your mobile in Downloading mode by Pressing Volume Down key + the Home key and holding them press the Power button.</li>
+	<li>Now Start ODIN.</li>
+	<li>Connect Mobile To Computer, you will see the ID:COM port light up in ODIN with port number on which your phone is connected.</li>
+	<li>Make sure the repartition box is unchecked.</li>
+	<li>Now click on BOOT LOADER and select the <strong>APBOOT_I9003XXKPE_CL409735_REV08_user_low_ship.tar.md5</strong> file.</li>
+	<li>Click on PDA and select the <strong>CODE_I9003XXKPE_CL409735_REV08_user_low_ship.tar.md5</strong>.</li>
+	<li>Click on PHONE and select the <strong>MODEM_I9003XXKPE_REV_00_CL1041909.tar.md5</strong>.</li>
+	<li>Click on CSC and select the <strong>GT-I9003-CSC-MULTI-OXAKPE.tar.md</strong>.</li>
+	<li>Now click on Start.</li>
+	<li>Wait for process to complete and do not detach phone from PC until it finishes successfully and you see ‘PASS’ with green color.</li>
+	<li>The phone will boot and your firmware now would be 2.3.4 XXKPE.</li>
+	<li>Turn off the phone.</li>
+</ol>
+
+<div style="font-size:15px;"><u>Flashing with XXKPQ</u></div>
+
+<strong>Flash mobile again with XXKPE. When using XXKPQ it is crucial that you flash XXKPE twice.</strong>
+After flashing with XXKPE twice,
+<ol>
+	<li>Put your mobile in Downloading mode by Pressing Volume Down key + the Home key and holding them Power button.</li>
+	<li>Now connect your phone to computer, in ODIN, ID:COM box will turn into yellow.</li>
+	<li>Click on PDA and select <strong>I9003XXKPQ_I9003XXKPQ_I9003SERKPQ_HOME.tar.md5</strong>.</li>
+	<li>Click on start button.</li>
+	<li>Wait for process to complete and do not detach phone from PC until it finishes successfully and you see ‘PASS’ with green color.</li>
+	<li>The phone will boot and your firmware now would be 2.3.6 XXKPQ.</li>
+	<li>Turn off the phone.</li>
+
+</ol>
+
+
+<div style="font-size:15px;"><u>Flashing with XXKPU</u></div>
+
+<strong>Skip this if you are using XXKPQ</strong>
+<ol>
+
+	<li>Put your mobile in Downloading mode by Pressing Volume Down key + the Home key and holding them Power button.</li>
+	<li>Now connect your phone to computer, in ODIN, ID:COM box will turn into yellow.</li>
+	<li>Click on PDA and select <strong>I9003XXKPU_I9003XXKPU_I9003SERKPU_HOME.tar.md5</strong>.</li>
+	<li>Click on start button.</li>
+	<li>Wait for process to complete and do not detach phone from PC until it finishes successfully and you see ‘PASS’ with green color.</li>
+	<li>The phone will boot and your firmware now would be 2.3.6 XXKPU.</li>
+	<li>Switch off the phone.</li>
+
+</ol>
+
+<div style="font-size:15px;"><u>Flashing Root</u></div>
+<ol>
+
+	<li>Put your mobile in Downloading mode by Pressing Volume Down key + the Home key and holding them Press the Power button.</li>
+	<li>Connect you mobile to computer, now click on PDA in ODIN and go to folder where you have downloaded the <strong>CF-Root</strong>/<strong>UC Kernel v15</strong>.</li>
+	<li>Click on start and wait till process got completed.</li>
+
+</ol>
+
+
+
+<div style="font-size:15px;"><u>Flashing the Poseidon ROM</u></div>
+<ol>
+	<li>Copy Poseidon file in your external sdcard <strong>POSEIDON’S_ROM_XXKPQ_01-09-12.zip</strong>.</li>
+	<li>Switch of your phone and start in recovery mode by Pressing Volume UP key + the Home key and holding them press the Power button.</li>
+	<li>It will start in CWM recovery mode. Click on install zip from sdcard and just flash the Poseidon zip.</li>
+	<li>Your phone will auto restart. If not then select reboot phone.</li>
+
+</ol>
+
+
+Enjoy Poseidon on your phone!!!
+
+
+
+<blockquote><strong><u>NOTE:</u> I am not responsible for any damage, that might happen during the flashing process or any accidental bricking of your phone.... </strong></blockquote>
+

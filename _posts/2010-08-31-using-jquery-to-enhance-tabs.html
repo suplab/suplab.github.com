@@ -1,0 +1,39 @@
+--- 
+meta: 
+  _wp_old_slug: ""
+  _syntaxhighlighter_encoded: "1"
+  yourls_shorturl: http://suplab.in/s/c
+  _edit_last: "1"
+layout: post
+published: true
+type: post
+status: publish
+tags: 
+- Design
+- HTML
+- JQuery
+- Tech
+title: Using JQuery to Enhance Tabs
+---
+JQuery can be used very effectively to enhance the way tabs work and function. Today I'm going to discuss about idTabs.
+
+<img src="http://i790.photobucket.com/albums/yy186/suplabd/site/11.jpg" border="0" alt="" width="300px" height="120px" />
+
+<strong>idTabs</strong> is a plugin for <a href="http://www.jquery.com/" target="_blank">jQuery</a>.
+It makes adding tabs into a website super simple.
+But it can also open the door to endless possiblities.
+Getting started is easy, just <a href="http://www.sunsean.com/idTabs/jquery.idTabs.min.js" target="_blank">download </a>the program above,
+and copy and paste the following code into the <strong><code>&lt;head&gt;</code></strong>
+{% highlight html lineos %}
+<script type="text/javascript" src="jquery.idTabs.min.js"></script></script>
+{% endhighlight %}
+Now any <strong><code>&lt;a href="#tab"&gt;</code></strong> inside of an element with <strong><code>class="idTabs"</code></strong>
+will show the element with <strong><code>id="tab"</code></strong>. See below for a better example.
+{% highlight html lineos %}
+<ul class="idTabs">
+  <li><a href="#jquery">Tab 1</a></li>
+  <li><a href="#official">Tab 2</a></li> 
+</ul> 
+<div id="jquery">If you haven't checked out ...</div> 
+<div id="official">idTabs is only a simple ...</div>
+{% endhighlight %}
