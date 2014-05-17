@@ -25,7 +25,7 @@ This is a graph generator function which can be used to generate a  graph. The f
 The function takes two inputs, a <strong>$question</strong> variable an  an <strong>$answers</strong> array.
 The function is given below.
 <br><br>
-{% highlight php lineos %}
+<pre>
 <?php
  function draw_chart($question, $answers) {
 
@@ -104,11 +104,11 @@ The function is given below.
  ImageDestroy($chart);
  }
  ?>
- {% endhighlight %}
+</pre>
 <br><br>
 Now to declare and initialise the <strong>$question</strong> and <strong>$answer</strong> variable and array.
 <br><br>
-{% highlight php lineos %}
+<pre>
 <?php
  $question = 'What is most popular framework of php?';
 
@@ -125,14 +125,14 @@ Now to declare and initialise the <strong>$question</strong> and <strong>$answer
  $answers['votes'][  ]  = 15;
 ?>
 
- {% endhighlight %}
+</pre>
 <br><br>
 Now to call the function.
 <br>
-{% highlight php lineos %}
+<pre>
 <?php
  draw_chart($question, $answers);
 ?>
- {% endhighlight %}
+</pre>
 <br><br>
 Simple isn't it!!!
