@@ -2,7 +2,7 @@
 layout: page
 permalink: /about/
 title: About Me
-tagline: Minimal Mistakes, a Jekyll Theme
+tagline: Id10T
 tags: [about, Jekyll, theme, responsive]
 modified: 9-9-2013
 comments: true
@@ -19,7 +19,7 @@ image:
 </table>
 <br />
 
-## TECHIE.GEEK.PHOTOGRAPHER.TREKKER:
+## TECHIE.GEEK.PHOTOGRAPHER.TREKKER
 
   I'm an oddball really!! I whole heartedly embrace technology, and yet like to spend lonely nights on mountain tops, away from civilisation. :P
 
