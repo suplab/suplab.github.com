@@ -5,6 +5,7 @@ description: ""
 category: random
 tagline: "Supporting tagline"
 tags: [Tech, Jekyll, Wordpress, Blog]
+comments: true
 ---
 {% include JB/setup %}
 
