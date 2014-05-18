@@ -5,7 +5,7 @@ title: About Me
 tagline: Id10T
 tags: [about, Jekyll, theme, responsive]
 modified: 9-9-2013
-comments: true
+comments: false
 image:
   feature: texture-feature-02.jpg
   credit: suplab debnath
