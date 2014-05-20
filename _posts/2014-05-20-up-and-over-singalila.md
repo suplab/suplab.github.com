@@ -1,4 +1,3 @@
-<!--
 ---
 layout: post
 title: "Up and Over Singalila"
@@ -8,7 +7,7 @@ tagline: "Singalila Pass trek"
 tags: [Personal, Travelog, travel, Singalila, trek, Sikkim]
 comments: true
 ---
-{% include JB/setup %}-->
+{% include JB/setup %}
 
 This post has been long due since last year.
 This post is essentially a travelog of the Singalila Trek which I took last year in November.
