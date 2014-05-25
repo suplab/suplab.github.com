@@ -16,10 +16,10 @@ This post is essentially a travelog of the Singalila Trek which I took last year
 
 * [Santanu Chakraborty](https://www.facebook.com/santanu.chakraborty.750) - an explorer at heart, he is an avid photographer.
 * [Anik Bhaumik](https://www.facebook.com/anik.bhaumik) - a guy who speaks his mind, and has an iron will.
-* [Bivas Paul](https://www.facebook.com/bivas.paul.7) - 
-* [Anubhab Mukherjee](https://www.facebook.com/anubhab.mukherjee.31)
-* [Indrajit Diyan](https://www.facebook.com/indrajit.diyan)
-* [Saunak Majumder](https://www.facebook.com/saunak.majumder)
+* [Bivas Paul](https://www.facebook.com/bivas.paul.7) - his first visit to the mountains, and he opts for and crosses Singalila Pass on foot. Need I say more!!!
+* [Anubhab Mukherjee](https://www.facebook.com/anubhab.mukherjee.31) - an old friend, has a zeal to explore the unchartered.
+* [Indrajit Diyan](https://www.facebook.com/indrajit.diyan) - a fantastic trekker, and a rare humble individual
+* [Saunak Majumder](https://www.facebook.com/saunak.majumder) - the happy-go-lucky individual of the group, worrying about things is not something he is good at :P
 
 
 
