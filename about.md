@@ -13,9 +13,9 @@ image:
 ---
 
 <table>
-<tr align="left"><th>Suplab Debnath</th></tr>
-<tr><td>Programmer Analyst,</td></tr>
-<tr><td>Tata Consultancy Services</td></tr>
+<tr align="left"><th><strong>Suplab Debnath</strong></th></tr>
+<tr><td>Currently Software Engineering Analyst,</td></tr>
+<tr><td>Accenture Services Ltd.</td></tr>
 </table>
 <br />
 
