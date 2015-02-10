@@ -1,0 +1,1100 @@
+about.md:  credit: suplab debnath
+.git/config:	url = https://github.com/suplab/suplab.github.com
+.git/FETCH_HEAD:0092a2b48902f9eff3cb627cef6b6f882e035c4a		branch 'master' of https://github.com/suplab/suplab.github.com
+.git/logs/HEAD:0000000000000000000000000000000000000000 de7b6be8d597bf7607f0fc6686ed62a6f7ac8ca3 beingSuplab <beingsuplab@beingsuplab-ThinkPad-Edge-E431.(none)> 1410089915 +0530	clone: from https://github.com/suplab/suplab.github.com
+.git/logs/HEAD:de7b6be8d597bf7607f0fc6686ed62a6f7ac8ca3 0092a2b48902f9eff3cb627cef6b6f882e035c4a Suplab Debnath <suplabdude@gmail.com> 1423581697 +0530	pull: Fast-forward
+.git/logs/HEAD:0092a2b48902f9eff3cb627cef6b6f882e035c4a b89ffdc84761feaf7a903d9a2f5b77379b015dff Suplab Debnath <suplabdude@gmail.com> 1423581989 +0530	commit: rebuild pages
+.git/logs/refs/heads/master:0000000000000000000000000000000000000000 de7b6be8d597bf7607f0fc6686ed62a6f7ac8ca3 beingSuplab <beingsuplab@beingsuplab-ThinkPad-Edge-E431.(none)> 1410089915 +0530	clone: from https://github.com/suplab/suplab.github.com
+.git/logs/refs/heads/master:de7b6be8d597bf7607f0fc6686ed62a6f7ac8ca3 0092a2b48902f9eff3cb627cef6b6f882e035c4a Suplab Debnath <suplabdude@gmail.com> 1423581697 +0530	pull: Fast-forward
+.git/logs/refs/heads/master:0092a2b48902f9eff3cb627cef6b6f882e035c4a b89ffdc84761feaf7a903d9a2f5b77379b015dff Suplab Debnath <suplabdude@gmail.com> 1423581989 +0530	commit: rebuild pages
+.git/logs/refs/remotes/origin/HEAD:0000000000000000000000000000000000000000 de7b6be8d597bf7607f0fc6686ed62a6f7ac8ca3 beingSuplab <beingsuplab@beingsuplab-ThinkPad-Edge-E431.(none)> 1410089915 +0530	clone: from https://github.com/suplab/suplab.github.com
+.git/logs/refs/remotes/origin/master:de7b6be8d597bf7607f0fc6686ed62a6f7ac8ca3 0092a2b48902f9eff3cb627cef6b6f882e035c4a beingSuplab <beingsuplab@ThinkPad-Edge-E431.(none)> 1423581697 +0530	pull: fast-forward
+.git/logs/refs/remotes/origin/master:0092a2b48902f9eff3cb627cef6b6f882e035c4a b89ffdc84761feaf7a903d9a2f5b77379b015dff Suplab Debnath <suplabdude@gmail.com> 1423582073 +0530	update by push
+_posts/2011-02-24-inception-live.html:  yourls_shorturl: http://suplab.in/s/5
+_posts/2012-01-13-i-am-watching-the-big-bang-theory-2.html:  tumblr_suplab_id: "15778652284"
+_posts/2012-01-13-i-am-watching-the-big-bang-theory-2.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/15778652284/i-am-watching-the-big-bang-theory
+_posts/2012-01-13-i-am-watching-the-big-bang-theory-2.html:        <a href="http://getglue.com/conversation/suplabdebnath/2012-01-13T16:33:48Z/?s=tu&amp;ref=suplabdebnath" target="_blank">I am watching The Big Bang Theory</a>
+_posts/2012-01-13-i-am-watching-the-big-bang-theory-2.html:     <a href="http://getglue.com/tv_shows/big_bang_theory/?s=tu&amp;ref=suplabdebnath" target="_blank">The Big Bang Theory on GetGlue.com</a>
+_posts/2010-08-06-hello-world-2.html:  yourls_shorturl: http://suplab.in/s/8
+_posts/2010-08-06-hello-world-2.html:Welcome to suplab.in. This is a website dedicated to web related designing and development. Although I'm not quite a regular blogger I promise to keep posting.
+_posts/2011-12-15-personalised-web.html:  tumblr_suplab_id: "14255175899"
+_posts/2011-12-15-personalised-web.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/14255175899/personalised-web
+_posts/2011-12-14-i-am-watching-how-i-met-your-mother-3.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/14209537163/i-am-watching-how-i-met-your-mother
+_posts/2011-12-14-i-am-watching-how-i-met-your-mother-3.html:  tumblr_suplab_id: "14209537163"
+_posts/2011-12-14-i-am-watching-how-i-met-your-mother-3.html:        <a href="http://getglue.com/conversation/suplabdebnath/2011-12-14T09:29:16Z/?s=tu&amp;ref=suplabdebnath" target="_blank">I am watching How I Met Your Mother</a>
+_posts/2011-12-14-i-am-watching-how-i-met-your-mother-3.html:     <a href="http://getglue.com/tv_shows/how_i_met_your_mother/?s=tu&amp;ref=suplabdebnath" target="_blank">How I Met Your Mother on GetGlue.com</a>
+_posts/2011-04-21-how-green-is-the-iphone-infographic.html:  yourls_shorturl: http://suplab.in/s/f
+_posts/2012-02-09-img-0105.html:  tumblr_suplab_id: "17318207617"
+_posts/2012-02-09-img-0105.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/17318207617/img-0105
+_posts/2011-12-25-peace-on-earth-one-of-my.html:  tumblr_suplab_id: "14759347081"
+_posts/2011-12-25-peace-on-earth-one-of-my.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/14759347081/peace-on-earth-one-of-my
+_posts/2011-12-31-we-miss-you-john-denver-features-rare-song-no.html:  tumblr_suplab_id: "15082828294"
+_posts/2011-12-31-we-miss-you-john-denver-features-rare-song-no.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/15082828294/we-miss-you-john-denver-features-rare-song-no
+_posts/2012-02-09-img-0104.html:  tumblr_suplab_id: "17318206321"
+_posts/2012-02-09-img-0104.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/17318206321/img-0104
+_posts/2011-12-12-how-you-doin.html:  tumblr_suplab_id: "14102999378"
+_posts/2011-12-12-how-you-doin.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/14102999378/how-you-doin
+_posts/2012-12-25-of-ruins-and-runes.html:    <td><a href="http://www.flickr.com/photos/suplabd/8303295316/" title="Remains by beingsuplab, on Flickr" target="_blank"><img style="horizontal-align:middle;" src="http://farm9.staticflickr.com/8494/8303295316_9e93061c54.jpg" width="360" height="400" alt="Remains"></a></td>
+_posts/2012-12-25-of-ruins-and-runes.html:    <td><a href="http://www.flickr.com/photos/suplabd/8303171396/" title="Fountain by beingsuplab, on Flickr" target="_blank"><img src="http://farm9.staticflickr.com/8504/8303171396_3026216b2a.jpg" width="180" height="400" alt="Fountain"></a></td>
+_posts/2012-12-25-of-ruins-and-runes.html:  <td colspan="2"><a href="http://www.flickr.com/photos/suplabd/8303273320/" title="Frozen in Time by beingsuplab, on Flickr" target="_blank"><img src="http://farm9.staticflickr.com/8214/8303273320_545b248765.jpg" width="542" height="333" alt="Frozen in Time"></a></td>
+_posts/2012-12-25-of-ruins-and-runes.html:<a href="http://www.flickr.com/photos/suplabd/8303225208/" title="The King's Empty Court by beingsuplab, on Flickr" target="_blank"><img src="http://farm9.staticflickr.com/8352/8303225208_627b1d34f7.jpg" width="542" height="333" alt="The King's Empty Court"></a>
+_posts/2012-12-25-of-ruins-and-runes.html:<a href="http://www.flickr.com/photos/suplabd/8303205660/" title="Times of Peace by beingsuplab, on Flickr" target="_blank"><img src="http://farm9.staticflickr.com/8077/8303205660_bed6e1fd75.jpg" width="542" height="368" alt="Times of Peace"></a>
+_posts/2012-12-25-of-ruins-and-runes.html:<a href="http://www.flickr.com/photos/suplabd/8302189985/" title="Window to the Past by beingsuplab, on Flickr" target="_blank"><img src="http://farm9.staticflickr.com/8074/8302189985_222fafe057.jpg" width="270" height="400" alt="Window to the Past"></a> <a href="http://www.flickr.com/photos/suplabd/8303198716/" title="The Gateway by beingsuplab, on Flickr" target="_blank"><img src="http://farm9.staticflickr.com/8503/8303198716_53511e7d99.jpg" width="270" height="400" alt="The Gateway"></a>
+_posts/2012-12-25-of-ruins-and-runes.html:<a href="http://www.flickr.com/photos/suplabd/8302111067/" title="Crouching Tiger by beingsuplab, on Flickr" target="_blank"><img src="http://farm9.staticflickr.com/8497/8302111067_1879350876.jpg" width="542" height="245" alt="Crouching Tiger"></a>
+_posts/2012-12-25-of-ruins-and-runes.html:<a href="http://www.flickr.com/photos/suplabd/8303155512/" title="Lookout by beingsuplab, on Flickr" target="_blank"><img src="http://farm9.staticflickr.com/8082/8303155512_577d94d6e3.jpg" width="542" height="600" alt="Lookout"></a>
+_posts/2012-02-14-no-fishing.html:  yourls_shorturl: http://suplab.in/s/2
+_posts/2010-08-31-using-jquery-to-enhance-tabs.html:  yourls_shorturl: http://suplab.in/s/c
+_posts/2010-08-31-using-jquery-to-enhance-tabs.html:<img src="http://i790.photobucket.com/albums/yy186/suplabd/site/11.jpg" border="0" alt="" width="300px" height="120px" />
+_posts/2011-12-15-bow-before-the-king.html:  tumblr_suplab_id: "14262579951"
+_posts/2011-12-15-bow-before-the-king.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/14262579951/bow-before-the-king
+_posts/2012-02-09-img-0106.html:  tumblr_suplab_id: "17318208807"
+_posts/2012-02-09-img-0106.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/17318208807/img-0106
+_posts/2012-02-13-happy-desperation-day.html:  tumblr_suplab_id: "17554679885"
+_posts/2012-02-13-happy-desperation-day.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/17554679885/happy-desperation-day
+_posts/2011-04-01-a-simple-captcha-using-php.html:  yourls_shorturl: http://suplab.in/s/7
+_posts/2012-01-02-i-am-watching-sherlock.html:  tumblr_suplab_id: "15175876585"
+_posts/2012-01-02-i-am-watching-sherlock.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/15175876585/i-am-watching-sherlock
+_posts/2012-01-02-i-am-watching-sherlock.html:        <a href="http://getglue.com/conversation/suplabdebnath/2012-01-02T08:55:26Z/?s=tu&amp;ref=suplabdebnath" target="_blank">I am watching Sherlock</a>
+_posts/2012-01-02-i-am-watching-sherlock.html:     <a href="http://getglue.com/tv_shows/sherlock/?s=tu&amp;ref=suplabdebnath" target="_blank">Sherlock on GetGlue.com</a>
+_posts/2012-08-31-ubunchu-the-ubuntu-manga.html:  tumblr_suplab_id: "30593565817"
+_posts/2012-08-31-ubunchu-the-ubuntu-manga.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/30593565817/ubunchu-the-ubuntu-manga
+_posts/2011-12-19-i-am-watching-kenan-kel.html:  tumblr_suplab_id: "14444091534"
+_posts/2011-12-19-i-am-watching-kenan-kel.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/14444091534/i-am-watching-kenan-kel
+_posts/2011-12-19-i-am-watching-kenan-kel.html:        <a href="http://getglue.com/conversation/suplabdebnath/2011-12-19T05:27:34Z/?s=tu&amp;ref=suplabdebnath" target="_blank">I am watching Kenan &amp; Kel</a>
+_posts/2011-12-19-i-am-watching-kenan-kel.html:     <a href="http://getglue.com/tv_shows/kenan_kel/?s=tu&amp;ref=suplabdebnath" target="_blank">Kenan &amp; Kel on GetGlue.com</a>
+_posts/2011-12-18-twinkling-stars-on-flickr-trade-fair.html:  tumblr_suplab_id: "14401373958"
+_posts/2011-12-18-twinkling-stars-on-flickr-trade-fair.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/14401373958/twinkling-stars-on-flickr-trade-fair
+_posts/2011-12-18-twinkling-stars-on-flickr-trade-fair.html:<p><a href="http://www.flickr.com/photos/suplabd/6530959549/" title="Twinkling Stars" target="_blank">Twinkling Stars</a> on Flickr.</p><p>@Trade Fair</p>
+_posts/2011-08-15-independence-65-years.html:  yourls_shorturl: http://suplab.in/s/l
+_posts/2010-11-07-technical-quotes.html:  yourls_shorturl: http://suplab.in/s/d
+_posts/2012-08-23-20-must-have-ubuntu-showdown-apps.html:  tumblr_suplab_id: "30032896917"
+_posts/2012-08-23-20-must-have-ubuntu-showdown-apps.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/30032896917/20-must-have-ubuntu-showdown-apps
+_posts/2011-12-22-i-am-watching-hey-arnold.html:  tumblr_suplab_id: "14607449722"
+_posts/2011-12-22-i-am-watching-hey-arnold.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/14607449722/i-am-watching-hey-arnold
+_posts/2011-12-22-i-am-watching-hey-arnold.html:        <a href="http://getglue.com/conversation/suplabdebnath/2011-12-22T07:12:54Z/?s=tu&amp;ref=suplabdebnath" target="_blank">I am watching Hey Arnold!</a>
+_posts/2011-12-22-i-am-watching-hey-arnold.html:     <a href="http://getglue.com/tv_shows/hey_arnold/?s=tu&amp;ref=suplabdebnath" target="_blank">Hey Arnold! on GetGlue.com</a>
+_posts/2011-12-12-reminiscing.html:  tumblr_suplab_id: "14116369969"
+_posts/2011-12-12-reminiscing.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/14116369969/reminiscing
+_posts/2012-01-02-the-mathematical-bat-2.html:  tumblr_suplab_id: "15168909214"
+_posts/2012-01-02-the-mathematical-bat-2.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/15168909214/the-mathematical-bat
+_posts/2011-12-20-i-am-watching-rugrats.html:  tumblr_suplab_id: "14511987953"
+_posts/2011-12-20-i-am-watching-rugrats.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/14511987953/i-am-watching-rugrats
+_posts/2011-12-20-i-am-watching-rugrats.html:        <a href="http://getglue.com/conversation/suplabdebnath/2011-12-20T15:44:45Z/?s=tu&amp;ref=suplabdebnath" target="_blank">I am watching Rugrats</a>
+_posts/2011-12-20-i-am-watching-rugrats.html:     <a href="http://getglue.com/tv_shows/rugrats/?s=tu&amp;ref=suplabdebnath" target="_blank">Rugrats on GetGlue.com</a>
+_posts/2010-11-06-janrain-rpx-a-tutorial.html:  yourls_shorturl: http://suplab.in/s/9
+_posts/2012-01-17-listening-to.html:  yourls_shorturl: http://suplab.in/s/w
+_posts/2011-12-12-a-little-learning-is-a-dangerous-thing-but-we.html:  tumblr_suplab_id: "14111701343"
+_posts/2011-12-12-a-little-learning-is-a-dangerous-thing-but-we.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/14111701343/a-little-learning-is-a-dangerous-thing-but-we
+_posts/2012-01-16-i-am-watching-sherlock-the-2.html:  tumblr_suplab_id: "15951238872"
+_posts/2012-01-16-i-am-watching-sherlock-the-2.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/15951238872/i-am-watching-sherlock-the
+_posts/2012-01-16-i-am-watching-sherlock-the-2.html:        <a href="http://getglue.com/conversation/suplabdebnath/2012-01-16T16:44:37Z/?s=tu&amp;ref=suplabdebnath" target="_blank">I am watching Sherlock</a>
+_posts/2012-01-16-i-am-watching-sherlock-the-2.html:     <a href="http://getglue.com/tv_shows/sherlock/?s=tu&amp;ref=suplabdebnath" target="_blank">Sherlock on GetGlue.com</a>
+_posts/2011-12-12-chewbacca-sings-silent-night.html:  yourls_shorturl: http://suplab.in/s/t
+_posts/2011-05-27-samsung-galaxy-s-gt-i9003-unboxing.html:  yourls_shorturl: http://suplab.in/s/i
+_posts/2011-05-27-samsung-galaxy-s-gt-i9003-unboxing.html:<object width="600" height="400"> <param name="flashvars" value="offsite=true&lang=en-us&page_show_url=%2Fphotos%2Fsuplabd%2Fsets%2F72157626693199477%2Fshow%2F&page_show_back_url=%2Fphotos%2Fsuplabd%2Fsets%2F72157626693199477%2F&set_id=72157626693199477&jump_to="></param> <param name="movie" value="http://www.flickr.com/apps/slideshow/show.swf?v=71649"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/slideshow/show.swf?v=71649" allowFullScreen="true" flashvars="offsite=true&lang=en-us&page_show_url=%2Fphotos%2Fsuplabd%2Fsets%2F72157626693199477%2Fshow%2F&page_show_back_url=%2Fphotos%2Fsuplabd%2Fsets%2F72157626693199477%2F&set_id=72157626693199477&jump_to=" width="600" height="400"></embed></object>
+_posts/2011-11-22-friends-tagore-and-chopsticks.html:  yourls_shorturl: http://suplab.in/s/q
+_posts/2011-11-22-friends-tagore-and-chopsticks.html:<a href="http://www.flickr.com/photos/suplabd/6383543167/" title="KAC1 by beingsuplab, on Flickr"><img src="http://farm7.staticflickr.com/6235/6383543167_43f96d7410.jpg" width="100%" height="424" alt="KAC1"></a>
+_posts/2011-11-22-friends-tagore-and-chopsticks.html:<a href="http://www.flickr.com/photos/suplabd/6376361689/" title="2011-11-20 17.54.29 by beingsuplab, on Flickr"><img src="http://farm7.staticflickr.com/6231/6376361689_666803cc40.jpg" width="500" height="375" alt="2011-11-20 17.54.29"></a>
+_posts/2011-11-22-friends-tagore-and-chopsticks.html:<a href="http://www.flickr.com/photos/suplabd/6376366379/" title="2011-11-20 17.55.41 by beingsuplab, on Flickr"><img src="http://farm7.staticflickr.com/6224/6376366379_b98848c4ba.jpg" width="375" height="500" alt="2011-11-20 17.55.41"></a>
+_posts/2011-11-22-friends-tagore-and-chopsticks.html:<a href="http://www.flickr.com/photos/suplabd/6376369477/" title="2011-11-20 17.45.50 by beingsuplab, on Flickr"><img src="http://farm7.staticflickr.com/6219/6376369477_c679971905.jpg" width="500" height="375" alt="2011-11-20 17.45.50"></a>
+_posts/2011-11-22-friends-tagore-and-chopsticks.html:<a href="http://www.flickr.com/photos/suplabd/6376392129/" title="2011-11-20 17.48.12 by beingsuplab, on Flickr"><img src="http://farm7.staticflickr.com/6225/6376392129_1cdc9ae2a0.jpg" width="500" height="375" alt="2011-11-20 17.48.12"></a>
+_posts/2011-11-22-friends-tagore-and-chopsticks.html:<a href="http://www.flickr.com/photos/suplabd/6376413995/" title="2011-11-20 17.35.37 by beingsuplab, on Flickr"><img src="http://farm7.staticflickr.com/6056/6376413995_1cef81747b.jpg" width="500" height="375" alt="2011-11-20 17.35.37"></a>
+_posts/2011-11-22-friends-tagore-and-chopsticks.html:<a href="http://www.flickr.com/photos/suplabd/6376387549/" title="2011-11-20 17.37.51 by beingsuplab, on Flickr"><img src="http://farm7.staticflickr.com/6099/6376387549_7bab37b6a1.jpg" width="500" height="375" alt="2011-11-20 17.37.51"></a>
+_posts/2011-11-22-friends-tagore-and-chopsticks.html:<a href="http://www.flickr.com/photos/suplabd/6376402869/" title="2011-11-20 17.46.18 by beingsuplab, on Flickr"><img src="http://farm7.staticflickr.com/6097/6376402869_5aa9f80315.jpg" width="500" height="375" alt="2011-11-20 17.46.18"></a>
+_posts/2011-11-22-friends-tagore-and-chopsticks.html:<a href="http://www.flickr.com/photos/suplabd/6376398183/" title="2011-11-20 17.52.26 by beingsuplab, on Flickr"><img src="http://farm7.staticflickr.com/6094/6376398183_cc6b6a83cc.jpg" width="500" height="375" alt="2011-11-20 17.52.26"></a>
+_posts/2011-11-22-friends-tagore-and-chopsticks.html:<a href="http://www.flickr.com/photos/suplabd/6376418217/" title="2011-11-20 17.34.34 by beingsuplab, on Flickr"><img src="http://farm7.staticflickr.com/6097/6376418217_bae1cd041a.jpg" width="500" height="375" alt="2011-11-20 17.34.34"></a>
+_posts/2011-11-22-friends-tagore-and-chopsticks.html:<a href="http://www.flickr.com/photos/suplabd/6383543377/" title="KAC2 by beingsuplab, on Flickr"><img src="http://farm7.staticflickr.com/6113/6383543377_642730056c_m.jpg" width="240" height="180" alt="KAC2"></a>
+_posts/2011-11-22-friends-tagore-and-chopsticks.html:<a href="http://www.flickr.com/photos/suplabd/6383543555/" title="KAC3 by beingsuplab, on Flickr"><img src="http://farm7.staticflickr.com/6107/6383543555_d28acf9809_m.jpg" width="240" height="180" alt="KAC3"></a>
+_posts/2011-11-22-friends-tagore-and-chopsticks.html:<a href="http://www.flickr.com/photos/suplabd/6383543719/" title="KAC4 by beingsuplab, on Flickr"><img src="http://farm7.staticflickr.com/6216/6383543719_8fa153b9f8_m.jpg" width="240" height="180" alt="KAC4"></a>
+_posts/2011-11-22-friends-tagore-and-chopsticks.html:<a href="http://www.flickr.com/photos/suplabd/6383544123/" title="KAC5 by beingsuplab, on Flickr"><img src="http://farm7.staticflickr.com/6091/6383544123_f9f1780c67_m.jpg" width="180" height="240" alt="KAC5"></a>
+_posts/2011-11-22-friends-tagore-and-chopsticks.html:<a href="http://www.flickr.com/photos/suplabd/6383544267/" title="KAC6 by beingsuplab, on Flickr"><img src="http://farm7.staticflickr.com/6221/6383544267_6c45d9d461_m.jpg" width="240" height="180" alt="KAC6"></a>
+_posts/2011-11-22-friends-tagore-and-chopsticks.html:<a href="http://www.flickr.com/photos/suplabd/6383544429/" title="KAC7 by beingsuplab, on Flickr"><img src="http://farm7.staticflickr.com/6232/6383544429_492d8ba1cb_m.jpg" width="210" height="240" alt="KAC7"></a>
+_posts/2011-11-22-friends-tagore-and-chopsticks.html:<a href="http://www.flickr.com/photos/suplabd/6383544579/" title="KAC8 by beingsuplab, on Flickr"><img src="http://farm7.staticflickr.com/6114/6383544579_2447b74de7_m.jpg" width="240" height="180" alt="KAC8"></a>
+_posts/2011-11-22-friends-tagore-and-chopsticks.html:<a href="http://www.flickr.com/photos/suplabd/6383544735/" title="KAC9 by beingsuplab, on Flickr"><img src="http://farm7.staticflickr.com/6120/6383544735_ac70248829_m.jpg" width="240" height="180" alt="KAC9"></a>
+_posts/2011-11-22-friends-tagore-and-chopsticks.html:<a href="http://www.flickr.com/photos/suplabd/6383545033/" title="KAC11 by beingsuplab, on Flickr"><img src="http://farm7.staticflickr.com/6240/6383545033_3ee270ebf7_m.jpg" width="240" height="180" alt="KAC11"></a>
+_posts/2011-11-22-friends-tagore-and-chopsticks.html:<a href="http://www.flickr.com/photos/suplabd/6383544885/" title="KAC10 by beingsuplab, on Flickr"><img src="http://farm7.staticflickr.com/6036/6383544885_428222f5de_m.jpg" width="180" height="240" alt="KAC10"></a>
+_posts/2011-11-22-friends-tagore-and-chopsticks.html:<a href="http://www.flickr.com/photos/suplabd/6383545309/" title="KAC13 by beingsuplab, on Flickr"><img src="http://farm7.staticflickr.com/6106/6383545309_cccaea8529_m.jpg" width="240" height="180" alt="KAC13"></a>
+_posts/2011-11-22-friends-tagore-and-chopsticks.html:<a href="http://www.flickr.com/photos/suplabd/6383545171/" title="KAC12 by beingsuplab, on Flickr"><img src="http://farm7.staticflickr.com/6019/6383545171_82b556927c_m.jpg" width="240" height="180" alt="KAC12"></a>
+_posts/2012-02-09-img-0099.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/17318205013/img-0099
+_posts/2012-02-09-img-0099.html:  tumblr_suplab_id: "17318205013"
+_posts/2011-12-14-ghachaan-foo.html:  tumblr_suplab_id: "14216592636"
+_posts/2011-12-14-ghachaan-foo.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/14216592636/ghachaan-foo
+_posts/2012-01-18-pure-emotional-bliss-2.html:  tumblr_suplab_id: "16060410225"
+_posts/2012-01-18-pure-emotional-bliss-2.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/16060410225/pure-emotional-bliss
+_posts/2012-07-08-a-guide-to-flashing-poseidon-rom-on-galaxy-sl-i9003.html:  yourls_shorturl: http://suplab.in/s/1
+_posts/2011-03-31-graph-using-gd.html:  yourls_shorturl: http://suplab.in/s/3
+_posts/2011-12-13-upgraded-to-the-latest-build.html:  tumblr_suplab_id: "14163651917"
+_posts/2011-12-13-upgraded-to-the-latest-build.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/14163651917/upgraded-to-the-latest-build
+_posts/2012-02-09-img-0095.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/17318203075/img-0095
+_posts/2012-02-09-img-0095.html:  tumblr_suplab_id: "17318203075"
+_posts/2012-02-13-venezia-by-marijan-vu-i.html:  tumblr_suplab_id: "17554344132"
+_posts/2012-02-13-venezia-by-marijan-vu-i.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/17554344132/venezia-by-marijan-vu-i
+_posts/2011-12-19-i-am-watching-the-darkest-hour.html:  tumblr_suplab_id: "14447416347"
+_posts/2011-12-19-i-am-watching-the-darkest-hour.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/14447416347/i-am-watching-the-darkest-hour
+_posts/2011-12-19-i-am-watching-the-darkest-hour.html:        <a href="http://getglue.com/conversation/suplabdebnath/2011-12-19T07:06:40Z/?s=tu&amp;ref=suplabdebnath" target="_blank">I am watching The Darkest Hour</a>
+_posts/2011-12-19-i-am-watching-the-darkest-hour.html:     <a href="http://getglue.com/movies/darkest_hour/chris_gorak/?s=tu&amp;ref=suplabdebnath" target="_blank">The Darkest Hour on GetGlue.com</a>
+_posts/2011-01-22-interview-paranoia.html:  yourls_shorturl: http://suplab.in/s/a
+_posts/2011-12-14-one-does-not-simply-wth.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/14213434667/one-does-not-simply-wth
+_posts/2011-12-14-one-does-not-simply-wth.html:  tumblr_suplab_id: "14213434667"
+_posts/2010-08-10-side-by-side-div.html:  yourls_shorturl: http://suplab.in/s/6
+_posts/2011-12-19-i-am-watching-war-horse-i.html:  tumblr_suplab_id: "14447376008"
+_posts/2011-12-19-i-am-watching-war-horse-i.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/14447376008/i-am-watching-war-horse-i
+_posts/2011-12-19-i-am-watching-war-horse-i.html:        <a href="http://getglue.com/conversation/suplabdebnath/2011-12-19T07:05:10Z/?s=tu&amp;ref=suplabdebnath" target="_blank">I am watching War Horse</a>
+_posts/2011-12-19-i-am-watching-war-horse-i.html:     <a href="http://getglue.com/movies/war_horse/steven_spielberg/?s=tu&amp;ref=suplabdebnath" target="_blank">War Horse on GetGlue.com</a>
+_posts/2012-01-18-pure-emotional-bliss.html:  yourls_shorturl: http://suplab.in/s/y
+_posts/2012-01-09-i-am-watching-sherlock-the-3.html:  tumblr_suplab_id: "15560831602"
+_posts/2012-01-09-i-am-watching-sherlock-the-3.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/15560831602/i-am-watching-sherlock-the
+_posts/2012-01-09-i-am-watching-sherlock-the-3.html:        <a href="http://getglue.com/conversation/suplabdebnath/2012-01-09T09:23:44Z/?s=tu&amp;ref=suplabdebnath" target="_blank">I am watching Sherlock</a>
+_posts/2012-01-09-i-am-watching-sherlock-the-3.html:     <a href="http://getglue.com/tv_shows/sherlock/?s=tu&amp;ref=suplabdebnath" target="_blank">Sherlock on GetGlue.com</a>
+_posts/2011-12-14-museumofusefulthings-28-drawings-of-vintage.html:  tumblr_suplab_id: "14216615291"
+_posts/2011-12-14-museumofusefulthings-28-drawings-of-vintage.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/14216615291/museumofusefulthings-28-drawings-of-vintage
+_posts/2011-09-20-the-wait.html:  yourls_shorturl: http://suplab.in/s/o
+_posts/2012-01-19-photographing-water.html:  yourls_shorturl: http://suplab.in/s/10
+_posts/2011-12-22-i-am-watching-treasure-island-i.html:  tumblr_suplab_id: "14607731079"
+_posts/2011-12-22-i-am-watching-treasure-island-i.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/14607731079/i-am-watching-treasure-island-i
+_posts/2011-12-22-i-am-watching-treasure-island-i.html:        <a href="http://getglue.com/conversation/suplabdebnath/2011-12-22T07:22:26Z/?s=tu&amp;ref=suplabdebnath" target="_blank">I am watching Treasure Island</a>
+_posts/2011-12-22-i-am-watching-treasure-island-i.html:     <a href="http://getglue.com/tv_shows/treasure_island/?s=tu&amp;ref=suplabdebnath" target="_blank">Treasure Island on GetGlue.com</a>
+_posts/2011-12-13-twitter-keyboard-shortcuts.html:  tumblr_suplab_id: "14164648154"
+_posts/2011-12-13-twitter-keyboard-shortcuts.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/14164648154/twitter-keyboard-shortcuts
+_posts/2012-01-18-sky-grazin.html:  yourls_shorturl: http://suplab.in/s/x
+_posts/2012-01-18-sky-grazin.html:<img src="http://fc06.deviantart.net/fs71/i/2012/010/7/5/hide_n_seek_by_suplabd-d4lwqek.jpg" alt="Hide-n-Seek" caption="Hide-n-Seek" /><br /><br />
+_posts/2012-01-18-sky-grazin.html:<img src="http://fc04.deviantart.net/fs70/i/2012/012/4/3/red_lit_by_suplabd-d4m3hdf.jpg" alt="Pink Sky" /><br /><br />
+_posts/2012-01-18-sky-grazin.html:<img src="http://fc08.deviantart.net/fs70/i/2012/012/1/f/back_lit_by_suplabd-d4m3i4g.jpg" alt="Back Lit" /><br /><br />
+_posts/2012-01-18-sky-grazin.html:<img src="http://fc03.deviantart.net/fs70/i/2012/012/9/6/white_float_by_suplabd-d4m3h0e.jpg" alt="White Float" />
+_posts/2011-12-30-if-the-programmers-like-each-other-they-play-a.html:  tumblr_suplab_id: "15016785992"
+_posts/2011-12-30-if-the-programmers-like-each-other-they-play-a.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/15016785992/if-the-programmers-like-each-other-they-play-a
+_posts/2011-02-02-nothing-can-be-as-crazy-a-review.html:  yourls_shorturl: http://suplab.in/s/4
+_posts/2011-12-13-peepingbird-por-enkel-dika.html:  tumblr_suplab_id: "14164694289"
+_posts/2011-12-13-peepingbird-por-enkel-dika.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/14164694289/peepingbird-por-enkel-dika
+_posts/2011-12-12-protector-on-flickr-in-wait.html:  tumblr_suplab_id: "14114322900"
+_posts/2011-12-12-protector-on-flickr-in-wait.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/14114322900/protector-on-flickr-in-wait
+_posts/2011-12-12-protector-on-flickr-in-wait.html:<p><a href="http://www.flickr.com/photos/suplabd/6416687409/" title="Protector" target="_blank">Protector</a> on Flickr.</p><p>In wait</p>
+_posts/2012-02-10-love-bokeh.html:  tumblr_suplab_id: "17369428936"
+_posts/2012-02-10-love-bokeh.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/17369428936/love-bokeh
+_posts/2011-12-16-i-am-watching-127-hours.html:  tumblr_suplab_id: "14301982860"
+_posts/2011-12-16-i-am-watching-127-hours.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/14301982860/i-am-watching-127-hours
+_posts/2011-12-16-i-am-watching-127-hours.html:        <a href="http://getglue.com/conversation/suplabdebnath/2011-12-16T07:52:06Z/?s=tu&amp;ref=suplabdebnath" target="_blank">I am watching 127 hours</a>
+_posts/2011-12-16-i-am-watching-127-hours.html:     <a href="http://getglue.com/movies/127_hours/danny_boyle/?s=tu&amp;ref=suplabdebnath" target="_blank">127 hours on GetGlue.com</a>
+_posts/2011-07-11-facebook-versus-google-infographic.html:  yourls_shorturl: http://suplab.in/s/k
+_posts/2011-12-31-i-am-listening-to-john-denver.html:  tumblr_suplab_id: "15074804891"
+_posts/2011-12-31-i-am-listening-to-john-denver.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/15074804891/i-am-listening-to-john-denver
+_posts/2011-12-31-i-am-listening-to-john-denver.html:        <a href="http://getglue.com/conversation/suplabdebnath/2011-12-31T08:27:34Z/?s=tu&amp;ref=suplabdebnath" target="_blank">I am listening to John Denver</a>
+_posts/2011-12-31-i-am-listening-to-john-denver.html:     <a href="http://getglue.com/recording_artists/john_denver/?s=tu&amp;ref=suplabdebnath" target="_blank">John Denver on GetGlue.com</a>
+_posts/2011-12-13-mit-has-made-a-camera-that-can-take-1-trillion-frames.html:  tumblr_suplab_id: "14164370213"
+_posts/2011-12-13-mit-has-made-a-camera-that-can-take-1-trillion-frames.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/14164370213/mit-has-made-a-camera-that-can-take-1-trillion-frames
+_posts/2010-08-29-janrain-engage-a-preview.html:  yourls_shorturl: http://suplab.in/s/b
+_posts/2011-11-22-post-json-data-in-php.html:  yourls_shorturl: http://suplab.in/s/p
+_posts/2012-01-17-i-am-watching-how-i-met-your-mother-2.html:  tumblr_suplab_id: "16006171812"
+_posts/2012-01-17-i-am-watching-how-i-met-your-mother-2.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/16006171812/i-am-watching-how-i-met-your-mother
+_posts/2012-01-17-i-am-watching-how-i-met-your-mother-2.html:        <a href="http://getglue.com/conversation/suplabdebnath/2012-01-17T13:59:49Z/?s=tu&amp;ref=suplabdebnath" target="_blank">I am watching How I Met Your Mother</a>
+_posts/2012-01-17-i-am-watching-how-i-met-your-mother-2.html:     <a href="http://getglue.com/tv_shows/how_i_met_your_mother/?s=tu&amp;ref=suplabdebnath" target="_blank">How I Met Your Mother on GetGlue.com</a>
+_posts/2011-12-19-i-am-watching-beauty-and-the-beast.html:  tumblr_suplab_id: "14447303493"
+_posts/2011-12-19-i-am-watching-beauty-and-the-beast.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/14447303493/i-am-watching-beauty-and-the-beast
+_posts/2011-12-19-i-am-watching-beauty-and-the-beast.html:        <a href="http://getglue.com/conversation/suplabdebnath/2011-12-19T07:02:38Z/?s=tu&amp;ref=suplabdebnath" target="_blank">I am watching Beauty and the Beast</a>
+_posts/2011-12-19-i-am-watching-beauty-and-the-beast.html:     <a href="http://getglue.com/movies/beauty_beast/gary_trousdale/?s=tu&amp;ref=suplabdebnath" target="_blank">Beauty and the Beast on GetGlue.com</a>
+_posts/2012-08-22-im-sorry.html:  tumblr_suplab_id: "29968349546"
+_posts/2012-08-22-im-sorry.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/29968349546/im-sorry
+_posts/2012-01-05-i-am-watching-sherlock-the-4.html:  tumblr_suplab_id: "15341363671"
+_posts/2012-01-05-i-am-watching-sherlock-the-4.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/15341363671/i-am-watching-sherlock-the
+_posts/2012-01-05-i-am-watching-sherlock-the-4.html:        <a href="http://getglue.com/conversation/suplabdebnath/2012-01-05T11:01:11Z/?s=tu&amp;ref=suplabdebnath" target="_blank">I am watching Sherlock</a>
+_posts/2012-01-05-i-am-watching-sherlock-the-4.html:     <a href="http://getglue.com/tv_shows/sherlock/?s=tu&amp;ref=suplabdebnath" target="_blank">Sherlock on GetGlue.com</a>
+_posts/2012-01-19-pro-slr-cheap-lens-vs-cheap-dslr-pro-lens.html:  yourls_shorturl: http://suplab.in/s/z
+_posts/2012-01-01-illumination-on-flickr.html:  tumblr_suplab_id: "15114055705"
+_posts/2012-01-01-illumination-on-flickr.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/15114055705/illumination-on-flickr
+_posts/2012-01-01-illumination-on-flickr.html:<p><a href="http://www.flickr.com/photos/suplabd/6610625805/" title="Illumination" target="_blank">Illumination</a> on Flickr.</p>
+_posts/2010-10-13-sorry-guys-have-been-away-for-sometime.html:  yourls_shorturl: http://suplab.in/s/e
+_posts/2011-12-12-lingering-thoughts.html:  yourls_shorturl: http://suplab.in/s/s
+_posts/2011-12-12-lingering-thoughts.html:<div class="blogger-post-footer"><img class="posterous_download_image" src="https://blogger.googleusercontent.com/tracker/6399830266425278479-2292372096948376165?l=suplab.blogspot.com" height="1" alt="" width="1" /></div>
+_posts/2011-12-13-well-done-is-better-than-well-said.html:  tumblr_suplab_id: "14157218123"
+_posts/2011-12-13-well-done-is-better-than-well-said.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/14157218123/well-done-is-better-than-well-said
+_posts/2012-01-16-i-am-watching-little-manhattan.html:  tumblr_suplab_id: "15942904160"
+_posts/2012-01-16-i-am-watching-little-manhattan.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/15942904160/i-am-watching-little-manhattan
+_posts/2012-01-16-i-am-watching-little-manhattan.html:        <a href="http://getglue.com/conversation/suplabdebnath/2012-01-16T12:04:52Z/?s=tu&amp;ref=suplabdebnath" target="_blank">I am watching Little Manhattan</a>
+_posts/2012-01-16-i-am-watching-little-manhattan.html:     <a href="http://getglue.com/movies/little_manhattan/mark_levin/?s=tu&amp;ref=suplabdebnath" target="_blank">Little Manhattan on GetGlue.com</a>
+_posts/2012-01-21-rajinikanth-website-really-runs-without-internet.html:  tumblr_suplab_id: "16212353427"
+_posts/2012-01-21-rajinikanth-website-really-runs-without-internet.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/16212353427/rajinikanth-website-really-runs-without-internet
+_posts/2011-05-30-days-gone-by-the-last-4-years.html:  yourls_shorturl: http://suplab.in/s/j
+_posts/2012-02-10-love-bokehs.html:  yourls_shorturl: http://suplab.in/s/3
+_posts/2012-02-10-love-bokehs.html:<a href="http://www.flickr.com/photos/suplabd/6851241051/" title="Love Bokeh by beingsuplab, on Flickr"><img src="http://farm8.staticflickr.com/7154/6851241051_7ae3119839_z.jpg" width="640" height="469" alt="Love Bokeh"></a>
+_posts/2012-02-10-love-bokehs.html:<a href="http://www.flickr.com/photos/suplabd/6851244667/" title="Red and Green by beingsuplab, on Flickr"><img src="http://farm8.staticflickr.com/7042/6851244667_575ffa7e1b_z.jpg" width="640" height="492" alt="Red and Green"></a>
+_posts/2011-12-12-new-life.html:  tumblr_suplab_id: "14109156900"
+_posts/2011-12-12-new-life.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/14109156900/new-life
+_posts/2012-02-09-img-0154.html:  tumblr_suplab_id: "17318209969"
+_posts/2012-02-09-img-0154.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/17318209969/img-0154
+_posts/2011-12-18-happy-holidays-on-flickr-gearing-up-for-christmas.html:  tumblr_suplab_id: "14401177815"
+_posts/2011-12-18-happy-holidays-on-flickr-gearing-up-for-christmas.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/14401177815/happy-holidays-on-flickr-gearing-up-for-christmas
+_posts/2011-12-18-happy-holidays-on-flickr-gearing-up-for-christmas.html:<p><a href="http://www.flickr.com/photos/suplabd/6530963731/" title="Happy Holidays" target="_blank">Happy Holidays</a> on Flickr.</p><p>Gearing up for Christmas</p>
+_posts/2012-01-02-raindrops-keep-fallin-on-my-head-on-flickr-its.html:  tumblr_suplab_id: "15172157524"
+_posts/2012-01-02-raindrops-keep-fallin-on-my-head-on-flickr-its.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/15172157524/raindrops-keep-fallin-on-my-head-on-flickr-its
+_posts/2012-01-02-raindrops-keep-fallin-on-my-head-on-flickr-its.html:<p><a href="http://www.flickr.com/photos/suplabd/6618261931/" title="Raindrops Keep Fallin' on My Head" target="_blank">Raindrops Keep Fallin&#8217; on My Head</a> on Flickr.</p><p>It&#8217;s raining on the second day of the year :-/</p>
+_posts/2011-12-11-blood-moon.html:  yourls_shorturl: http://suplab.in/s/r
+_posts/2011-04-29-self-described-mac-vs-pc-people.html:  yourls_shorturl: http://suplab.in/s/g
+_posts/2012-01-02-the-mathematical-bat.html:  yourls_shorturl: http://suplab.in/s/u
+_posts/2011-03-20-cms-demistifyed-wordpress-vs-drupal-vs-joomla.html:  yourls_shorturl: http://suplab.in/s/2
+_posts/2011-12-27-calypso.html:  tumblr_suplab_id: "14857036416"
+_posts/2011-12-27-calypso.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/14857036416/calypso
+_posts/2011-12-14-ice-cream-sandwich-on-galaxy-sl.html:  tumblr_suplab_id: "14214908236"
+_posts/2011-12-14-ice-cream-sandwich-on-galaxy-sl.html:  tumblr_suplab_permalink: http://suplab.tumblr.com/post/14214908236/ice-cream-sandwich-on-galaxy-sl
+CNAME:beingsuplab.in
+wordpress.xml:	<link>http://suplab.in/blog</link>
+wordpress.xml:	<wp:base_site_url>http://suplab.in/blog</wp:base_site_url>
+wordpress.xml:	<wp:base_blog_url>http://suplab.in/blog</wp:base_blog_url>
+wordpress.xml:	<wp:author><wp:author_id>1</wp:author_id><wp:author_login>admin</wp:author_login><wp:author_email>beingsuplab@gmail.com</wp:author_email><wp:author_display_name><![CDATA[Suplab]]></wp:author_display_name><wp:author_first_name><![CDATA[Suplab]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+wordpress.xml:		<link>http://suplab.in/blog/2010/08/janrain-engage-a-preview/engage-horizontal/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2011/01/engage-horizontal.png</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2011/01/engage-horizontal.png</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/2011/02/nothing-can-be-as-crazy-a-review/nothing-can-be-as-crazy-2/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2011/02/nothing-can-be-as-crazy1.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2011/02/nothing-can-be-as-crazy1.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/i-am-watching-rugrats/attachment/588/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lwieem8zvf1r7qtb9o1_400.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lwieem8zvf1r7qtb9o1_400.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/i-am-watching-the-darkest-hour/attachment/591/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lwfvr502491r7qtb9o1_400.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lwfvr502491r7qtb9o1_400.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/i-am-watching-war-horse-i/attachment/594/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lwfvoodWjN1r7qtb9o1_400.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lwfvoodWjN1r7qtb9o1_400.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/i-am-watching-beauty-and-the-beast/attachment/597/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lwfvkgI2Zz1r7qtb9o1_400.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lwfvkgI2Zz1r7qtb9o1_400.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/i-am-watching-kenan-kel/attachment/600/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lwfr61siAW1r7qtb9o1_400.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lwfr61siAW1r7qtb9o1_400.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/twinkling-stars-on-flickr-trade-fair/attachment/603/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lwej0w9xxL1r7qtb9o1_500.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lwej0w9xxL1r7qtb9o1_500.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/happy-holidays-on-flickr-gearing-up-for-christmas/attachment/606/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lweimfaJDa1r7qtb9o1_500.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lweimfaJDa1r7qtb9o1_500.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/i-am-watching-127-hours/attachment/609/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lwaduwfRSC1r7qtb9o1_400.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lwaduwfRSC1r7qtb9o1_400.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/museumofusefulthings-28-drawings-of-vintage/attachment/616/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lkd9no4fYT1qz4cuyo1_500.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lkd9no4fYT1qz4cuyo1_500.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/one-does-not-simply-wth/attachment/622/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lw740uhwEK1r7qtb9o1_400.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lw740uhwEK1r7qtb9o1_400.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/i-am-watching-how-i-met-your-mother-3/attachment/625/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lw6t0uKAOR1r7qtb9o1_400.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lw6t0uKAOR1r7qtb9o1_400.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/peepingbird-por-enkel-dika/attachment/628/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lw3j8uvPWw1qbl0oto1_1280.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lw3j8uvPWw1qbl0oto1_1280.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/twitter-keyboard-shortcuts/attachment/631/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lw58qyM3FQ1r7qtb9o1_1280.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lw58qyM3FQ1r7qtb9o1_1280.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/upgraded-to-the-latest-build/attachment/635/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lw56g8cPnp1r7qtb9o1_1280.png</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lw56g8cPnp1r7qtb9o1_1280.png</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/grand-hotel-on-flickr-a-grand-view/attachment/643/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lw3btrb1dE1r7qtb9o1_1280.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lw3btrb1dE1r7qtb9o1_1280.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/protector-on-flickr-in-wait/attachment/646/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lw3biuEca81r7qtb9o1_1280.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lw3biuEca81r7qtb9o1_1280.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/new-life/attachment/653/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lw2x1h9B3O1r7qtb9o1_1280.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lw2x1h9B3O1r7qtb9o1_1280.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/blood-moon-2/attachment/658/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lw1p0fHOh41r7qtb9o1_1280.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lw1p0fHOh41r7qtb9o1_1280.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/2012/02/img-0105/attachment/515/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lz4qv7tDfz1r7qtb9o1_1280.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lz4qv7tDfz1r7qtb9o1_1280.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/2012/02/img-0104/attachment/518/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lz4qv4oly61r7qtb9o1_1280.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lz4qv4oly61r7qtb9o1_1280.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/2012/02/img-0099/attachment/521/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lz4qv0RRqu1r7qtb9o1_1280.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lz4qv0RRqu1r7qtb9o1_1280.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/2012/02/img-0095/attachment/524/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lz4quwoX1e1r7qtb9o1_1280.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lz4quwoX1e1r7qtb9o1_1280.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/2012/02/img-0082/attachment/527/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lz4qustelP1r7qtb9o1_1280.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lz4qustelP1r7qtb9o1_1280.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/2012/02/i-am-watching-goodness-gracious-me/attachment/530/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lywkpfxdI71r7qtb9o1_250.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lywkpfxdI71r7qtb9o1_250.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/2012/02/i-am-watching-seinfeld/attachment/533/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lyv5epSCoz1r7qtb9o1_400.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lyv5epSCoz1r7qtb9o1_400.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/2012/01/i-am-watching-sherlock-the/attachment/536/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lyeqcfenwN1r7qtb9o1_400.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lyeqcfenwN1r7qtb9o1_400.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/2012/01/i-am-watching-how-i-met-your-mother-2/attachment/542/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lxy47sB4kU1r7qtb9o1_400.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lxy47sB4kU1r7qtb9o1_400.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/2012/01/i-am-watching-sherlock-the-2/attachment/545/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lxwh6gwez61r7qtb9o1_400.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lxwh6gwez61r7qtb9o1_400.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/2012/01/i-am-watching-little-manhattan/attachment/548/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lxw488qiND1r7qtb9o1_250.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lxw488qiND1r7qtb9o1_250.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/2012/01/i-am-watching-the-big-bang-theory-2/attachment/551/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lxqwoeLSRO1r7qtb9o1_400.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lxqwoeLSRO1r7qtb9o1_400.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/2012/01/i-am-watching-sherlock-the-3/attachment/554/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lxiy3mTn7e1r7qtb9o1_400.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lxiy3mTn7e1r7qtb9o1_400.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/2012/01/i-am-watching-sherlock-the-4/attachment/557/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lxbny0sdmu1r7qtb9o1_400.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lxbny0sdmu1r7qtb9o1_400.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/2012/01/i-am-watching-sherlock/attachment/560/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lx5y4gfPwL1r7qtb9o1_400.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lx5y4gfPwL1r7qtb9o1_400.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/2012/01/raindrops-keep-fallin-on-my-head-on-flickr-its/attachment/563/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lx5swymI4C1r7qtb9o1_1280.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lx5swymI4C1r7qtb9o1_1280.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/2012/01/illumination-on-flickr/attachment/567/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lx3t04rMoJ1r7qtb9o1_1280.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lx3t04rMoJ1r7qtb9o1_1280.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/i-am-listening-to-john-denver/attachment/572/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lx27i2CBNH1r7qtb9o1_250.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lx27i2CBNH1r7qtb9o1_250.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/i-am-watching-treasure-island-i/attachment/582/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lwlgheYcXU1r7qtb9o1_400.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lwlgheYcXU1r7qtb9o1_400.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/i-am-watching-hey-arnold/attachment/585/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lwlg1jpLvN1r7qtb9o1_400.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lwlg1jpLvN1r7qtb9o1_400.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/?attachment_id=455</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m43vkwu2tO1r7qtb9o1_1280.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m43vkwu2tO1r7qtb9o1_1280.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/?attachment_id=458</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m3haybLiC31r7qtb9o1_500.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m3haybLiC31r7qtb9o1_500.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/?attachment_id=461</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m3hawuXn4u1r7qtb9o1_1280.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m3hawuXn4u1r7qtb9o1_1280.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/?attachment_id=464</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m2oj2uUpeD1r7qtb9o1_1280.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m2oj2uUpeD1r7qtb9o1_1280.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/?attachment_id=467</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m2o8xwqeRc1r7qtb9o1_1280.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m2o8xwqeRc1r7qtb9o1_1280.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/?attachment_id=470</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m2mkfq8LfF1r7qtb9o1_1280.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m2mkfq8LfF1r7qtb9o1_1280.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/?attachment_id=473</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m2mkfm86wU1r7qtb9o1_1280.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m2mkfm86wU1r7qtb9o1_1280.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/?attachment_id=476</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m2mkbxdQ5b1r7qtb9o1_1280.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m2mkbxdQ5b1r7qtb9o1_1280.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/?attachment_id=479</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m2kb4aDXR61r7qtb9o1_1280.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m2kb4aDXR61r7qtb9o1_1280.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/?attachment_id=482</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m2j033lPVv1r7qtb9o1_1280.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m2j033lPVv1r7qtb9o1_1280.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/?attachment_id=485</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m2cvq7dR5C1r7qtb9o1_1280.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m2cvq7dR5C1r7qtb9o1_1280.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/?attachment_id=488</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lze4s7ANuc1r7qtb9o1_250.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lze4s7ANuc1r7qtb9o1_250.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/?attachment_id=491</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lzdth1k1ji1r7qtb9o1_400.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lzdth1k1ji1r7qtb9o1_400.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/2012/02/happy-desperation-day/attachment/494/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lzcav4vSfH1r7qtb9o1_400.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lzcav4vSfH1r7qtb9o1_400.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/2012/02/venezia-by-marijan-vu-i/attachment/497/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lzcae0A54p1r7qtb9o1_400.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lzcae0A54p1r7qtb9o1_400.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/?attachment_id=500</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lz6h4lQjJQ1r7qtb9o1_1280.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lz6h4lQjJQ1r7qtb9o1_1280.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/2012/02/love-bokeh/attachment/503/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lz6h4j2edD1r7qtb9o1_1280.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lz6h4j2edD1r7qtb9o1_1280.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/2012/02/cap/attachment/506/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lz4s26IblB1r7qtb9o1_1280.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lz4s26IblB1r7qtb9o1_1280.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/2012/02/img-0154/attachment/509/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lz4qveHCik1r7qtb9o1_1280.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lz4qveHCik1r7qtb9o1_1280.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/2012/02/img-0106/attachment/512/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lz4qvbrBYP1r7qtb9o1_1280.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lz4qvbrBYP1r7qtb9o1_1280.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/?attachment_id=383</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m7igzbxz4O1r7qtb9o1_1280.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m7igzbxz4O1r7qtb9o1_1280.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/?attachment_id=386</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m7iarmzxuW1r7qtb9o1_1280.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m7iarmzxuW1r7qtb9o1_1280.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/?attachment_id=389</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m77oiyY57T1r7qtb9o1_250.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m77oiyY57T1r7qtb9o1_250.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/?attachment_id=392</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m7134xbDKT1r7qtb9o1_500.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m7134xbDKT1r7qtb9o1_500.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/?attachment_id=398</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m6took8Aaq1r7qtb9o1_1280.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m6took8Aaq1r7qtb9o1_1280.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/?attachment_id=401</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m6to23BcGC1r7qtb9o1_500.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m6to23BcGC1r7qtb9o1_500.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/?attachment_id=413</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m6a5i4X3eH1r7qtb9o1_250.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m6a5i4X3eH1r7qtb9o1_250.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/?attachment_id=416</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m64ib5Fr4W1r7qtb9o1_400.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m64ib5Fr4W1r7qtb9o1_400.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/?attachment_id=419</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m5copdPXiZ1r7qtb9o1_1280.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m5copdPXiZ1r7qtb9o1_1280.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/?attachment_id=422</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m57h5ezPRa1r7qtb9o1_400.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m57h5ezPRa1r7qtb9o1_400.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/?attachment_id=425</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m57h2jGqjh1r7qtb9o1_400.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m57h2jGqjh1r7qtb9o1_400.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/?attachment_id=428</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m57h29hdE51r7qtb9o1_400.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m57h29hdE51r7qtb9o1_400.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/?attachment_id=431</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m57gyxu9F81r7qtb9o1_400.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m57gyxu9F81r7qtb9o1_400.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/?attachment_id=434</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m57gytrY1o1r7qtb9o1_400.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m57gytrY1o1r7qtb9o1_400.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/?attachment_id=437</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m57gw0WIJ71r7qtb9o1_400.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m57gw0WIJ71r7qtb9o1_400.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/?attachment_id=440</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m57gvvL5891r7qtb9o1_400.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m57gvvL5891r7qtb9o1_400.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/?attachment_id=443</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m57gsdpIBG1r7qtb9o1_400.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m57gsdpIBG1r7qtb9o1_400.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/?attachment_id=446</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m57gomprFW1r7qtb9o1_400.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m57gomprFW1r7qtb9o1_400.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/?attachment_id=449</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m4bngn6WPw1r7qtb9o1_1280.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m4bngn6WPw1r7qtb9o1_1280.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/?attachment_id=452</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m43wktVJom1r7qtb9o1_1280.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m43wktVJom1r7qtb9o1_1280.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/aboutme/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/</guid>
+wordpress.xml:		<content:encoded><![CDATA[Welcome to suplab.in, a website designed and maintained by Suplab Debnath, a web developer and designer from Kolkata. I am a B.Tech passout from Narula Institute of Technology, holding a degree in the field of Information Technology.
+wordpress.xml:<div id="social_stickers_widget-4" class="widget social_stickers_widget"> <a href="http://500px.com/beingsuplab" title="500px" target="_blank"><img src="http://suplab.in/blog/wp-content/plugins/social-stickers/themes/default/500px.png" height="32px" width="32px"></a> <a href="http://about.me/suplabdebnath" title="About Me" target="_blank"><img src="http://suplab.in/blog/wp-content/plugins/social-stickers/themes/default/aboutme.png" height="32px" width="32px"></a> <a href="http://suplabd.deviantart.com" title="Deviantart" target="_blank"><img src="http://suplab.in/blog/wp-content/plugins/social-stickers/themes/default/deviantart.png" height="32px" width="32px"></a> <a href="http://www.flickr.com/people/suplabd" title="Flickr" target="_blank"><img src="http://suplab.in/blog/wp-content/plugins/social-stickers/themes/default/flickr.png" height="32px" width="32px"></a> <a href="http://facebook.com/suplabdebnath" title="Facebook" target="_blank"><img src="http://suplab.in/blog/wp-content/plugins/social-stickers/themes/default/facebook.png" height="32px" width="32px"></a> <a href="https://foursquare.com/beingsuplab" title="Foursquare" target="_blank"><img src="http://suplab.in/blog/wp-content/plugins/social-stickers/themes/default/foursquare.png" height="32px" width="32px"></a> <a href="http://geekli.st/beingsuplab" title="Geeklist" target="_blank"><img src="http://suplab.in/blog/wp-content/plugins/social-stickers/themes/default/geeklist.png" height="32px" width="32px"></a> <a href="http://plus.google.com/118409260584278348787" title="Google+" target="_blank"><img src="http://suplab.in/blog/wp-content/plugins/social-stickers/themes/default/googleplus.png" height="32px" width="32px"></a> <a href="http://instagram.com/beingsuplab" title="Instagram" target="_blank"><img src="http://suplab.in/blog/wp-content/plugins/social-stickers/themes/default/instagram.png" height="32px" width="32px"></a> <a href="http://linkedin.com/in/suplabdebnath" title="Linkedin" target="_blank"><img src="http://suplab.in/blog/wp-content/plugins/social-stickers/themes/default/linkedin.png" height="32px" width="32px"></a> <a href="http://pinterest.com/beingsuplab" title="Pinterest" target="_blank"><img src="http://suplab.in/blog/wp-content/plugins/social-stickers/themes/default/pinterest.png" height="32px" width="32px"></a> <a href="http://twitter.com/beingsuplab" title="Twitter" target="_blank"><img src="http://suplab.in/blog/wp-content/plugins/social-stickers/themes/default/twitter.png" height="32px" width="32px"></a> <a href="http://github.com/suplab" title="Github" target="_blank"><img src="http://suplab.in/blog/wp-content/plugins/social-stickers/themes/default/github.png" height="32px" width="32px"></a> <a href="http://suplab.posterous.com" title="Posterous" target="_blank"><img src="http://suplab.in/blog/wp-content/plugins/social-stickers/themes/default/posterous.png" height="32px" width="32px"></a> <a href="http://suplab.tumblr.com" title="Tumblr" target="_blank"><img src="http://suplab.in/blog/wp-content/plugins/social-stickers/themes/default/tumblr.png" height="32px" width="32px"></a> <a href="http://beingsuplab.wordpress.com" title="Wordpress" target="_blank"><img src="http://suplab.in/blog/wp-content/plugins/social-stickers/themes/default/wordpress.png" height="32px" width="32px"></a> <a href="http://imdb.com/user/ur22747350" title="IMDB" target="_blank"><img src="http://suplab.in/blog/wp-content/plugins/social-stickers/themes/default/imdb.png" height="32px" width="32px"></a> <a href="http://quora.com/Suplab-Debnath" title="Quora" target="_blank"><img src="http://suplab.in/blog/wp-content/plugins/social-stickers/themes/default/quora.png" height="32px" width="32px"></a> <a href="http://youtube.com/suplabdude" title="Youtube" target="_blank"><img src="http://suplab.in/blog/wp-content/plugins/social-stickers/themes/default/youtube.png" height="32px" width="32px"></a>
+wordpress.xml:<h2><a class="aptureEnhance" href="http://suplab.in/">For more details check out my Résumé</a></h2>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.in/s/h]]></wp:meta_value>
+wordpress.xml:		<link>http://suplab.in/blog/?attachment_id=307</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_mb4cjaRNTE1r7qtb9o1_400.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_mb4cjaRNTE1r7qtb9o1_400.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/?attachment_id=310</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_mawwv0e1b41r7qtb9o1_400.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_mawwv0e1b41r7qtb9o1_400.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/?attachment_id=342</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m8ccqeGvHQ1r7qtb9o1_1280.png</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m8ccqeGvHQ1r7qtb9o1_1280.png</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/?attachment_id=347</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m7yrgxK1Fp1r7qtb9o1_1280.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m7yrgxK1Fp1r7qtb9o1_1280.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/?attachment_id=350</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m7tczwfNqN1r7qtb9o1_1280.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m7tczwfNqN1r7qtb9o1_1280.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/?attachment_id=353</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m7rze3gSdd1r7qtb9o1_1280.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m7rze3gSdd1r7qtb9o1_1280.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/?attachment_id=356</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m7rzdyiuuG1r7qtb9o1_1280.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m7rzdyiuuG1r7qtb9o1_1280.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/?attachment_id=359</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m7rzdueHot1r7qtb9o1_1280.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m7rzdueHot1r7qtb9o1_1280.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/?attachment_id=362</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m7rzdpGjUp1r7qtb9o1_1280.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m7rzdpGjUp1r7qtb9o1_1280.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/?attachment_id=365</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m7rzdjBapk1r7qtb9o1_1280.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m7rzdjBapk1r7qtb9o1_1280.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/?attachment_id=368</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m7rzde4h2K1r7qtb9o1_1280.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m7rzde4h2K1r7qtb9o1_1280.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/?attachment_id=371</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m7rxsztBYz1r7qtb9o1_1280.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m7rxsztBYz1r7qtb9o1_1280.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/?attachment_id=374</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m7rxpzrIJY1r7qtb9o1_1280.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m7rxpzrIJY1r7qtb9o1_1280.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/?attachment_id=377</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m7rxiwivIo1r7qtb9o1_1280.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m7rxiwivIo1r7qtb9o1_1280.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/?attachment_id=380</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m7km3lAZAE1r7qtb9o1_400.jpg</guid>
+wordpress.xml:		<wp:attachment_url>http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_m7km3lAZAE1r7qtb9o1_400.jpg</wp:attachment_url>
+wordpress.xml:		<link>http://suplab.in/blog/2012/12/home/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/?p=773</guid>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.in]]></wp:meta_value>
+wordpress.xml:		<link>http://suplab.in/blog/2012/12/blog/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/?p=774</guid>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.in/blog/]]></wp:meta_value>
+wordpress.xml:		<link>http://suplab.in/blog/2012/12/775/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/?p=775</guid>
+wordpress.xml:		<link>http://suplab.in/blog/2012/12/776/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/?p=776</guid>
+wordpress.xml:		<link>http://suplab.in/blog/2010/08/side-by-side-div/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplabtech.in/blog/?p=12</guid>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.in/s/6]]></wp:meta_value>
+wordpress.xml:		<link>http://suplab.in/blog/2010/08/janrain-engage-a-preview/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplabtech.in/blog/?p=17</guid>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.in/s/b]]></wp:meta_value>
+wordpress.xml:			<wp:comment_author_email>admin@suplabtech.in</wp:comment_author_email>
+wordpress.xml:		<link>http://suplab.in/blog/2010/08/using-jquery-to-enhance-tabs/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplabtech.in/blog/?p=22</guid>
+wordpress.xml:<img src="http://i790.photobucket.com/albums/yy186/suplabd/site/11.jpg" border="0" alt="" width="300px" height="120px" />
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.in/s/c]]></wp:meta_value>
+wordpress.xml:		<link>http://suplab.in/blog/2010/10/sorry-guys-have-been-away-for-sometime/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplabtech.in/blog/?p=34</guid>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.in/s/e]]></wp:meta_value>
+wordpress.xml:		<link>http://suplab.in/blog/2010/11/janrain-rpx-a-tutorial/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplabtech.in/blog/?p=37</guid>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.in/s/9]]></wp:meta_value>
+wordpress.xml:		<link>http://suplab.in/blog/2010/11/technical-quotes/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplabtech.in/blog/?p=43</guid>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.in/s/d]]></wp:meta_value>
+wordpress.xml:		<link>http://suplab.in/blog/2011/01/interview-paranoia/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplabtech.in/blog/?p=52</guid>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.in/s/a]]></wp:meta_value>
+wordpress.xml:			<wp:comment_author><![CDATA[suplab]]></wp:comment_author>
+wordpress.xml:		<link>http://suplab.in/blog/2010/08/hello-world-2/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplabtech.in/blog/?p=1</guid>
+wordpress.xml:		<content:encoded><![CDATA[Welcome to suplab.in. This is a website dedicated to web related designing and development. Although I'm not quite a regular blogger I promise to keep posting.]]></content:encoded>
+wordpress.xml:		<excerpt:encoded><![CDATA[Welcome to suplabtech.in]]></excerpt:encoded>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.in/s/8]]></wp:meta_value>
+wordpress.xml:		<link>http://suplab.in/blog/2011/02/nothing-can-be-as-crazy-a-review/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/?p=70</guid>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.in/s/4]]></wp:meta_value>
+wordpress.xml:			<wp:comment_author><![CDATA[suplab]]></wp:comment_author>
+wordpress.xml:		<link>http://suplab.in/blog/2011/02/inception-live/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/?p=76</guid>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.in/s/5]]></wp:meta_value>
+wordpress.xml:			<wp:comment_author><![CDATA[suplab]]></wp:comment_author>
+wordpress.xml:			<wp:comment_author_email>suplabdude@gmail.com</wp:comment_author_email>
+wordpress.xml:			<wp:comment_author><![CDATA[suplab]]></wp:comment_author>
+wordpress.xml:			<wp:comment_author_email>suplabdude@gmail.com</wp:comment_author_email>
+wordpress.xml:		<link>http://suplab.in/blog/2011/03/cms-demistifyed-wordpress-vs-drupal-vs-joomla/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/?p=81</guid>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.in/s/2]]></wp:meta_value>
+wordpress.xml:			<wp:comment_author><![CDATA[suplab]]></wp:comment_author>
+wordpress.xml:			<wp:comment_author_email>suplabdude@gmail.com</wp:comment_author_email>
+wordpress.xml:		<link>http://suplab.in/blog/2011/03/graph-using-gd/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/?p=84</guid>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.in/s/3]]></wp:meta_value>
+wordpress.xml:		<link>http://suplab.in/blog/2011/04/a-simple-captcha-using-php/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/?p=92</guid>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.in/s/7]]></wp:meta_value>
+wordpress.xml:		<link>http://suplab.in/blog/2011/04/how-green-is-the-iphone-infographic/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/?p=95</guid>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.in/s/f]]></wp:meta_value>
+wordpress.xml:		<link>http://suplab.in/blog/2011/04/self-described-mac-vs-pc-people/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/?p=98</guid>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.in/s/g]]></wp:meta_value>
+wordpress.xml:		<link>http://suplab.in/blog/2011/05/samsung-galaxy-s-gt-i9003-unboxing/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/?p=104</guid>
+wordpress.xml:<object width="600" height="400"> <param name="flashvars" value="offsite=true&lang=en-us&page_show_url=%2Fphotos%2Fsuplabd%2Fsets%2F72157626693199477%2Fshow%2F&page_show_back_url=%2Fphotos%2Fsuplabd%2Fsets%2F72157626693199477%2F&set_id=72157626693199477&jump_to="></param> <param name="movie" value="http://www.flickr.com/apps/slideshow/show.swf?v=71649"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/slideshow/show.swf?v=71649" allowFullScreen="true" flashvars="offsite=true&lang=en-us&page_show_url=%2Fphotos%2Fsuplabd%2Fsets%2F72157626693199477%2Fshow%2F&page_show_back_url=%2Fphotos%2Fsuplabd%2Fsets%2F72157626693199477%2F&set_id=72157626693199477&jump_to=" width="600" height="400"></embed></object>]]></content:encoded>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.in/s/i]]></wp:meta_value>
+wordpress.xml:			<wp:comment_author><![CDATA[suplab]]></wp:comment_author>
+wordpress.xml:			<wp:comment_author_email>suplabdude@gmail.com</wp:comment_author_email>
+wordpress.xml:			<wp:comment_author><![CDATA[suplab]]></wp:comment_author>
+wordpress.xml:			<wp:comment_author_email>suplabdude@gmail.com</wp:comment_author_email>
+wordpress.xml:		<link>http://suplab.in/blog/2011/05/days-gone-by-the-last-4-years/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/?p=113</guid>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.in/s/j]]></wp:meta_value>
+wordpress.xml:		<link>http://suplab.in/blog/2011/07/facebook-versus-google-infographic/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/?p=119</guid>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.in/s/k]]></wp:meta_value>
+wordpress.xml:		<link>http://suplab.in/blog/2011/08/independence-65-years/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/?p=123</guid>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.in/s/l]]></wp:meta_value>
+wordpress.xml:		<link>http://suplab.in/blog/photos/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/?page_id=130</guid>
+wordpress.xml:[gallery type='500px' view='photos' feature='user' username='beingsuplab' sort='created_at' rpp='20' thumb_size='2' main_size='4' columns='4' ]
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.in/s/n]]></wp:meta_value>
+wordpress.xml:		<link>http://suplab.in/blog/2011/09/the-wait/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/?p=135</guid>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.in/s/o]]></wp:meta_value>
+wordpress.xml:		<link>http://suplab.in/blog/2011/11/post-json-data-in-php/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/?p=139</guid>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.in/s/p]]></wp:meta_value>
+wordpress.xml:		<link>http://suplab.in/blog/2011/11/friends-tagore-and-chopsticks/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/?p=145</guid>
+wordpress.xml:<a href="http://www.flickr.com/photos/suplabd/6383543167/" title="KAC1 by beingsuplab, on Flickr"><img src="http://farm7.staticflickr.com/6235/6383543167_43f96d7410.jpg" width="100%" height="424" alt="KAC1"></a>
+wordpress.xml:<a href="http://www.flickr.com/photos/suplabd/6376361689/" title="2011-11-20 17.54.29 by beingsuplab, on Flickr"><img src="http://farm7.staticflickr.com/6231/6376361689_666803cc40.jpg" width="500" height="375" alt="2011-11-20 17.54.29"></a>
+wordpress.xml:<a href="http://www.flickr.com/photos/suplabd/6376366379/" title="2011-11-20 17.55.41 by beingsuplab, on Flickr"><img src="http://farm7.staticflickr.com/6224/6376366379_b98848c4ba.jpg" width="375" height="500" alt="2011-11-20 17.55.41"></a>
+wordpress.xml:<a href="http://www.flickr.com/photos/suplabd/6376369477/" title="2011-11-20 17.45.50 by beingsuplab, on Flickr"><img src="http://farm7.staticflickr.com/6219/6376369477_c679971905.jpg" width="500" height="375" alt="2011-11-20 17.45.50"></a>
+wordpress.xml:<a href="http://www.flickr.com/photos/suplabd/6376392129/" title="2011-11-20 17.48.12 by beingsuplab, on Flickr"><img src="http://farm7.staticflickr.com/6225/6376392129_1cdc9ae2a0.jpg" width="500" height="375" alt="2011-11-20 17.48.12"></a>
+wordpress.xml:<a href="http://www.flickr.com/photos/suplabd/6376413995/" title="2011-11-20 17.35.37 by beingsuplab, on Flickr"><img src="http://farm7.staticflickr.com/6056/6376413995_1cef81747b.jpg" width="500" height="375" alt="2011-11-20 17.35.37"></a>
+wordpress.xml:<a href="http://www.flickr.com/photos/suplabd/6376387549/" title="2011-11-20 17.37.51 by beingsuplab, on Flickr"><img src="http://farm7.staticflickr.com/6099/6376387549_7bab37b6a1.jpg" width="500" height="375" alt="2011-11-20 17.37.51"></a>
+wordpress.xml:<a href="http://www.flickr.com/photos/suplabd/6376402869/" title="2011-11-20 17.46.18 by beingsuplab, on Flickr"><img src="http://farm7.staticflickr.com/6097/6376402869_5aa9f80315.jpg" width="500" height="375" alt="2011-11-20 17.46.18"></a>
+wordpress.xml:<a href="http://www.flickr.com/photos/suplabd/6376398183/" title="2011-11-20 17.52.26 by beingsuplab, on Flickr"><img src="http://farm7.staticflickr.com/6094/6376398183_cc6b6a83cc.jpg" width="500" height="375" alt="2011-11-20 17.52.26"></a>
+wordpress.xml:<a href="http://www.flickr.com/photos/suplabd/6376418217/" title="2011-11-20 17.34.34 by beingsuplab, on Flickr"><img src="http://farm7.staticflickr.com/6097/6376418217_bae1cd041a.jpg" width="500" height="375" alt="2011-11-20 17.34.34"></a>
+wordpress.xml:<a href="http://www.flickr.com/photos/suplabd/6383543377/" title="KAC2 by beingsuplab, on Flickr"><img src="http://farm7.staticflickr.com/6113/6383543377_642730056c_m.jpg" width="240" height="180" alt="KAC2"></a>
+wordpress.xml:<a href="http://www.flickr.com/photos/suplabd/6383543555/" title="KAC3 by beingsuplab, on Flickr"><img src="http://farm7.staticflickr.com/6107/6383543555_d28acf9809_m.jpg" width="240" height="180" alt="KAC3"></a>
+wordpress.xml:<a href="http://www.flickr.com/photos/suplabd/6383543719/" title="KAC4 by beingsuplab, on Flickr"><img src="http://farm7.staticflickr.com/6216/6383543719_8fa153b9f8_m.jpg" width="240" height="180" alt="KAC4"></a>
+wordpress.xml:<a href="http://www.flickr.com/photos/suplabd/6383544123/" title="KAC5 by beingsuplab, on Flickr"><img src="http://farm7.staticflickr.com/6091/6383544123_f9f1780c67_m.jpg" width="180" height="240" alt="KAC5"></a>
+wordpress.xml:<a href="http://www.flickr.com/photos/suplabd/6383544267/" title="KAC6 by beingsuplab, on Flickr"><img src="http://farm7.staticflickr.com/6221/6383544267_6c45d9d461_m.jpg" width="240" height="180" alt="KAC6"></a>
+wordpress.xml:<a href="http://www.flickr.com/photos/suplabd/6383544429/" title="KAC7 by beingsuplab, on Flickr"><img src="http://farm7.staticflickr.com/6232/6383544429_492d8ba1cb_m.jpg" width="210" height="240" alt="KAC7"></a>
+wordpress.xml:<a href="http://www.flickr.com/photos/suplabd/6383544579/" title="KAC8 by beingsuplab, on Flickr"><img src="http://farm7.staticflickr.com/6114/6383544579_2447b74de7_m.jpg" width="240" height="180" alt="KAC8"></a>
+wordpress.xml:<a href="http://www.flickr.com/photos/suplabd/6383544735/" title="KAC9 by beingsuplab, on Flickr"><img src="http://farm7.staticflickr.com/6120/6383544735_ac70248829_m.jpg" width="240" height="180" alt="KAC9"></a>
+wordpress.xml:<a href="http://www.flickr.com/photos/suplabd/6383545033/" title="KAC11 by beingsuplab, on Flickr"><img src="http://farm7.staticflickr.com/6240/6383545033_3ee270ebf7_m.jpg" width="240" height="180" alt="KAC11"></a>
+wordpress.xml:<a href="http://www.flickr.com/photos/suplabd/6383544885/" title="KAC10 by beingsuplab, on Flickr"><img src="http://farm7.staticflickr.com/6036/6383544885_428222f5de_m.jpg" width="180" height="240" alt="KAC10"></a>
+wordpress.xml:<a href="http://www.flickr.com/photos/suplabd/6383545309/" title="KAC13 by beingsuplab, on Flickr"><img src="http://farm7.staticflickr.com/6106/6383545309_cccaea8529_m.jpg" width="240" height="180" alt="KAC13"></a>
+wordpress.xml:<a href="http://www.flickr.com/photos/suplabd/6383545171/" title="KAC12 by beingsuplab, on Flickr"><img src="http://farm7.staticflickr.com/6019/6383545171_82b556927c_m.jpg" width="240" height="180" alt="KAC12"></a>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.in/s/q]]></wp:meta_value>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/blood-moon/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2011/12/blood-moon/</guid>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.in/s/r]]></wp:meta_value>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/lingering-thoughts/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2011/12/lingering-thoughts/</guid>
+wordpress.xml:<div class="blogger-post-footer"><img class="posterous_download_image" src="https://blogger.googleusercontent.com/tracker/6399830266425278479-2292372096948376165?l=suplab.blogspot.com" height="1" alt="" width="1" /></div>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.in/s/s]]></wp:meta_value>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/chewbacca-sings-silent-night/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2011/12/chewbacca-sings-silent-night/</guid>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.in/s/t]]></wp:meta_value>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/twitter-keyboard-shortcuts/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2011/12/twitter-keyboard-shortcuts/</guid>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/14164648154/twitter-keyboard-shortcuts]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/mit-has-made-a-camera-that-can-take-1-trillion-frames/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2011/12/mit-has-made-a-camera-that-can-take-1-trillion-frames/</guid>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/14164370213/mit-has-made-a-camera-that-can-take-1-trillion-frames]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/upgraded-to-the-latest-build/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2011/12/upgraded-to-the-latest-build/</guid>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/14163651917/upgraded-to-the-latest-build]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/well-done-is-better-than-well-said/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2011/12/well-done-is-better-than-well-said/</guid>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/14157218123/well-done-is-better-than-well-said]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/a-great-song-by-a-great-artist-remembering-mohd/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2011/12/a-great-song-by-a-great-artist-remembering-mohd/</guid>
+wordpress.xml:		<content:encoded><![CDATA[<a href='http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lw3gfn6R8Z1r7qtb9.mp3' title=''></a>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.in/blog/wp-content/uploads/2012/12/tumblr_lw3gfn6R8Z1r7qtb9.mp3
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/14116488104/a-great-song-by-a-great-artist-remembering-mohd]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/reminiscing/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2011/12/reminiscing/</guid>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/14116369969/reminiscing]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/grand-hotel-on-flickr-a-grand-view/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2011/12/grand-hotel-on-flickr-a-grand-view/</guid>
+wordpress.xml:<p><a href="http://www.flickr.com/photos/suplabd/6416644189/" title="Grand Hotel" target="_blank">Grand Hotel</a> on Flickr.</p><p>A Grand View</p>]]></content:encoded>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/14114440234/grand-hotel-on-flickr-a-grand-view]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/protector-on-flickr-in-wait/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2011/12/protector-on-flickr-in-wait/</guid>
+wordpress.xml:<p><a href="http://www.flickr.com/photos/suplabd/6416687409/" title="Protector" target="_blank">Protector</a> on Flickr.</p><p>In wait</p>]]></content:encoded>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/14114322900/protector-on-flickr-in-wait]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/a-little-learning-is-a-dangerous-thing-but-we/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2011/12/a-little-learning-is-a-dangerous-thing-but-we/</guid>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/14111701343/a-little-learning-is-a-dangerous-thing-but-we]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/chewbacca-sings-silent-night-2/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2011/12/chewbacca-sings-silent-night-2/</guid>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/14111560593/chewbacca-sings-silent-night]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/lingering-thoughts-2/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2011/12/lingering-thoughts-2/</guid>
+wordpress.xml:		<content:encoded><![CDATA[<div class="posterous_autopost"><p><span><br /><span style="font-size: large"><strong>This is not a love poem</strong></span><br /></span><span style="font-size: large"><strong><span>Addressed to you</span><span><br />Nor a praise of your attributes.</span><span><br />This is the gloomy way</span><span><br />Through which I travel,</span><span><br />Dreaming or awake.</span><span><br />And you haunt my every moment</span><span><br />Invading</span><span><br />But never responding.</span><span><br />Yet I walk on alone, ever alone.</span><span><br />Thrust in this void chasm which,</span><span><br />I can neither cross nor fathom.</span><span><br />I swim solitary</span><span><br />Seeking a ray of hope</span><span><br />That only your touch can provide.</span></strong></span></p>  <div class="blogger-post-footer"><img class="posterous_download_image" src="https://blogger.googleusercontent.com/tracker/6399830266425278479-2292372096948376165?l=suplab.blogspot.com" height="1" alt="" width="1" /></div></div>]]></content:encoded>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/14109587283/lingering-thoughts]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/new-life/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2011/12/new-life/</guid>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/14109156900/new-life]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/how-you-doin/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2011/12/how-you-doin/</guid>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/14102999378/how-you-doin]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/blood-moon-2/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2011/12/blood-moon-2/</guid>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/14065915199/blood-moon]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/calypso/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2011/12/calypso/</guid>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/14857036416/calypso]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/peace-on-earth-one-of-my/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2011/12/peace-on-earth-one-of-my/</guid>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/14759347081/peace-on-earth-one-of-my]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/i-am-watching-treasure-island-i/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2011/12/i-am-watching-treasure-island-i/</guid>
+wordpress.xml:        <a href="http://getglue.com/conversation/suplabdebnath/2011-12-22T07:22:26Z/?s=tu&amp;ref=suplabdebnath" target="_blank">I am watching Treasure Island</a>
+wordpress.xml:     <a href="http://getglue.com/tv_shows/treasure_island/?s=tu&amp;ref=suplabdebnath" target="_blank">Treasure Island on GetGlue.com</a>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/14607731079/i-am-watching-treasure-island-i]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/i-am-watching-hey-arnold/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2011/12/i-am-watching-hey-arnold/</guid>
+wordpress.xml:        <a href="http://getglue.com/conversation/suplabdebnath/2011-12-22T07:12:54Z/?s=tu&amp;ref=suplabdebnath" target="_blank">I am watching Hey Arnold!</a>
+wordpress.xml:     <a href="http://getglue.com/tv_shows/hey_arnold/?s=tu&amp;ref=suplabdebnath" target="_blank">Hey Arnold! on GetGlue.com</a>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/14607449722/i-am-watching-hey-arnold]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/i-am-watching-rugrats/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2011/12/i-am-watching-rugrats/</guid>
+wordpress.xml:        <a href="http://getglue.com/conversation/suplabdebnath/2011-12-20T15:44:45Z/?s=tu&amp;ref=suplabdebnath" target="_blank">I am watching Rugrats</a>
+wordpress.xml:     <a href="http://getglue.com/tv_shows/rugrats/?s=tu&amp;ref=suplabdebnath" target="_blank">Rugrats on GetGlue.com</a>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/14511987953/i-am-watching-rugrats]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/i-am-watching-the-darkest-hour/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2011/12/i-am-watching-the-darkest-hour/</guid>
+wordpress.xml:        <a href="http://getglue.com/conversation/suplabdebnath/2011-12-19T07:06:40Z/?s=tu&amp;ref=suplabdebnath" target="_blank">I am watching The Darkest Hour</a>
+wordpress.xml:     <a href="http://getglue.com/movies/darkest_hour/chris_gorak/?s=tu&amp;ref=suplabdebnath" target="_blank">The Darkest Hour on GetGlue.com</a>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/14447416347/i-am-watching-the-darkest-hour]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/i-am-watching-war-horse-i/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2011/12/i-am-watching-war-horse-i/</guid>
+wordpress.xml:        <a href="http://getglue.com/conversation/suplabdebnath/2011-12-19T07:05:10Z/?s=tu&amp;ref=suplabdebnath" target="_blank">I am watching War Horse</a>
+wordpress.xml:     <a href="http://getglue.com/movies/war_horse/steven_spielberg/?s=tu&amp;ref=suplabdebnath" target="_blank">War Horse on GetGlue.com</a>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/14447376008/i-am-watching-war-horse-i]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/i-am-watching-beauty-and-the-beast/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2011/12/i-am-watching-beauty-and-the-beast/</guid>
+wordpress.xml:        <a href="http://getglue.com/conversation/suplabdebnath/2011-12-19T07:02:38Z/?s=tu&amp;ref=suplabdebnath" target="_blank">I am watching Beauty and the Beast</a>
+wordpress.xml:     <a href="http://getglue.com/movies/beauty_beast/gary_trousdale/?s=tu&amp;ref=suplabdebnath" target="_blank">Beauty and the Beast on GetGlue.com</a>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/14447303493/i-am-watching-beauty-and-the-beast]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/i-am-watching-kenan-kel/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2011/12/i-am-watching-kenan-kel/</guid>
+wordpress.xml:        <a href="http://getglue.com/conversation/suplabdebnath/2011-12-19T05:27:34Z/?s=tu&amp;ref=suplabdebnath" target="_blank">I am watching Kenan &amp; Kel</a>
+wordpress.xml:     <a href="http://getglue.com/tv_shows/kenan_kel/?s=tu&amp;ref=suplabdebnath" target="_blank">Kenan &amp; Kel on GetGlue.com</a>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/14444091534/i-am-watching-kenan-kel]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/twinkling-stars-on-flickr-trade-fair/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2011/12/twinkling-stars-on-flickr-trade-fair/</guid>
+wordpress.xml:<p><a href="http://www.flickr.com/photos/suplabd/6530959549/" title="Twinkling Stars" target="_blank">Twinkling Stars</a> on Flickr.</p><p>@Trade Fair</p>]]></content:encoded>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/14401373958/twinkling-stars-on-flickr-trade-fair]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/happy-holidays-on-flickr-gearing-up-for-christmas/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2011/12/happy-holidays-on-flickr-gearing-up-for-christmas/</guid>
+wordpress.xml:<p><a href="http://www.flickr.com/photos/suplabd/6530963731/" title="Happy Holidays" target="_blank">Happy Holidays</a> on Flickr.</p><p>Gearing up for Christmas</p>]]></content:encoded>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/14401177815/happy-holidays-on-flickr-gearing-up-for-christmas]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/i-am-watching-127-hours/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2011/12/i-am-watching-127-hours/</guid>
+wordpress.xml:        <a href="http://getglue.com/conversation/suplabdebnath/2011-12-16T07:52:06Z/?s=tu&amp;ref=suplabdebnath" target="_blank">I am watching 127 hours</a>
+wordpress.xml:     <a href="http://getglue.com/movies/127_hours/danny_boyle/?s=tu&amp;ref=suplabdebnath" target="_blank">127 hours on GetGlue.com</a>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/14301982860/i-am-watching-127-hours]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/bow-before-the-king/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2011/12/bow-before-the-king/</guid>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/14262579951/bow-before-the-king]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/personalised-web/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2011/12/personalised-web/</guid>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/14255175899/personalised-web]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/museumofusefulthings-28-drawings-of-vintage/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2011/12/museumofusefulthings-28-drawings-of-vintage/</guid>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/14216615291/museumofusefulthings-28-drawings-of-vintage]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/ghachaan-foo/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2011/12/ghachaan-foo/</guid>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/14216592636/ghachaan-foo]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/ice-cream-sandwich-on-galaxy-sl/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2011/12/ice-cream-sandwich-on-galaxy-sl/</guid>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/14214908236/ice-cream-sandwich-on-galaxy-sl]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/one-does-not-simply-wth/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2011/12/one-does-not-simply-wth/</guid>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/14213434667/one-does-not-simply-wth]]></wp:meta_value>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/i-am-watching-how-i-met-your-mother-3/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2011/12/i-am-watching-how-i-met-your-mother-3/</guid>
+wordpress.xml:        <a href="http://getglue.com/conversation/suplabdebnath/2011-12-14T09:29:16Z/?s=tu&amp;ref=suplabdebnath" target="_blank">I am watching How I Met Your Mother</a>
+wordpress.xml:     <a href="http://getglue.com/tv_shows/how_i_met_your_mother/?s=tu&amp;ref=suplabdebnath" target="_blank">How I Met Your Mother on GetGlue.com</a>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/14209537163/i-am-watching-how-i-met-your-mother]]></wp:meta_value>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/peepingbird-por-enkel-dika/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2011/12/peepingbird-por-enkel-dika/</guid>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/14164694289/peepingbird-por-enkel-dika]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2012/01/the-mathematical-bat/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2012/01/the-mathematical-bat/</guid>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.in/s/u]]></wp:meta_value>
+wordpress.xml:		<link>http://suplab.in/blog/2012/01/listening-to/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/?p=201</guid>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.in/s/w]]></wp:meta_value>
+wordpress.xml:		<link>http://suplab.in/blog/2012/01/sky-grazin/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/?p=215</guid>
+wordpress.xml:<img src="http://fc06.deviantart.net/fs71/i/2012/010/7/5/hide_n_seek_by_suplabd-d4lwqek.jpg" alt="Hide-n-Seek" caption="Hide-n-Seek" /><br /><br />
+wordpress.xml:<img src="http://fc04.deviantart.net/fs70/i/2012/012/4/3/red_lit_by_suplabd-d4m3hdf.jpg" alt="Pink Sky" /><br /><br />
+wordpress.xml:<img src="http://fc08.deviantart.net/fs70/i/2012/012/1/f/back_lit_by_suplabd-d4m3i4g.jpg" alt="Back Lit" /><br /><br />
+wordpress.xml:<img src="http://fc03.deviantart.net/fs70/i/2012/012/9/6/white_float_by_suplabd-d4m3h0e.jpg" alt="White Float" />]]></content:encoded>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.in/s/x]]></wp:meta_value>
+wordpress.xml:		<link>http://suplab.in/blog/2012/01/pure-emotional-bliss/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/?p=224</guid>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.in/s/y]]></wp:meta_value>
+wordpress.xml:		<link>http://suplab.in/blog/2012/01/pro-slr-cheap-lens-vs-cheap-dslr-pro-lens/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/?p=226</guid>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.in/s/z]]></wp:meta_value>
+wordpress.xml:		<link>http://suplab.in/blog/2012/01/pure-emotional-bliss-2/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2012/01/pure-emotional-bliss-2/</guid>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/16060410225/pure-emotional-bliss]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2012/01/i-am-watching-how-i-met-your-mother-2/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2012/01/i-am-watching-how-i-met-your-mother-2/</guid>
+wordpress.xml:        <a href="http://getglue.com/conversation/suplabdebnath/2012-01-17T13:59:49Z/?s=tu&amp;ref=suplabdebnath" target="_blank">I am watching How I Met Your Mother</a>
+wordpress.xml:     <a href="http://getglue.com/tv_shows/how_i_met_your_mother/?s=tu&amp;ref=suplabdebnath" target="_blank">How I Met Your Mother on GetGlue.com</a>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/16006171812/i-am-watching-how-i-met-your-mother]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2012/01/i-am-watching-sherlock-the-2/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2012/01/i-am-watching-sherlock-the-2/</guid>
+wordpress.xml:        <a href="http://getglue.com/conversation/suplabdebnath/2012-01-16T16:44:37Z/?s=tu&amp;ref=suplabdebnath" target="_blank">I am watching Sherlock</a>
+wordpress.xml:     <a href="http://getglue.com/tv_shows/sherlock/?s=tu&amp;ref=suplabdebnath" target="_blank">Sherlock on GetGlue.com</a>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/15951238872/i-am-watching-sherlock-the]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2012/01/i-am-watching-little-manhattan/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2012/01/i-am-watching-little-manhattan/</guid>
+wordpress.xml:        <a href="http://getglue.com/conversation/suplabdebnath/2012-01-16T12:04:52Z/?s=tu&amp;ref=suplabdebnath" target="_blank">I am watching Little Manhattan</a>
+wordpress.xml:     <a href="http://getglue.com/movies/little_manhattan/mark_levin/?s=tu&amp;ref=suplabdebnath" target="_blank">Little Manhattan on GetGlue.com</a>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/15942904160/i-am-watching-little-manhattan]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2012/01/i-am-watching-the-big-bang-theory-2/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2012/01/i-am-watching-the-big-bang-theory-2/</guid>
+wordpress.xml:        <a href="http://getglue.com/conversation/suplabdebnath/2012-01-13T16:33:48Z/?s=tu&amp;ref=suplabdebnath" target="_blank">I am watching The Big Bang Theory</a>
+wordpress.xml:     <a href="http://getglue.com/tv_shows/big_bang_theory/?s=tu&amp;ref=suplabdebnath" target="_blank">The Big Bang Theory on GetGlue.com</a>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/15778652284/i-am-watching-the-big-bang-theory]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2012/01/i-am-watching-sherlock-the-3/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2012/01/i-am-watching-sherlock-the-3/</guid>
+wordpress.xml:        <a href="http://getglue.com/conversation/suplabdebnath/2012-01-09T09:23:44Z/?s=tu&amp;ref=suplabdebnath" target="_blank">I am watching Sherlock</a>
+wordpress.xml:     <a href="http://getglue.com/tv_shows/sherlock/?s=tu&amp;ref=suplabdebnath" target="_blank">Sherlock on GetGlue.com</a>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/15560831602/i-am-watching-sherlock-the]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2012/01/i-am-watching-sherlock-the-4/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2012/01/i-am-watching-sherlock-the-4/</guid>
+wordpress.xml:        <a href="http://getglue.com/conversation/suplabdebnath/2012-01-05T11:01:11Z/?s=tu&amp;ref=suplabdebnath" target="_blank">I am watching Sherlock</a>
+wordpress.xml:     <a href="http://getglue.com/tv_shows/sherlock/?s=tu&amp;ref=suplabdebnath" target="_blank">Sherlock on GetGlue.com</a>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/15341363671/i-am-watching-sherlock-the]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2012/01/i-am-watching-sherlock/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2012/01/i-am-watching-sherlock/</guid>
+wordpress.xml:        <a href="http://getglue.com/conversation/suplabdebnath/2012-01-02T08:55:26Z/?s=tu&amp;ref=suplabdebnath" target="_blank">I am watching Sherlock</a>
+wordpress.xml:     <a href="http://getglue.com/tv_shows/sherlock/?s=tu&amp;ref=suplabdebnath" target="_blank">Sherlock on GetGlue.com</a>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/15175876585/i-am-watching-sherlock]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2012/01/raindrops-keep-fallin-on-my-head-on-flickr-its/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2012/01/raindrops-keep-fallin-on-my-head-on-flickr-its/</guid>
+wordpress.xml:<p><a href="http://www.flickr.com/photos/suplabd/6618261931/" title="Raindrops Keep Fallin' on My Head" target="_blank">Raindrops Keep Fallin&#8217; on My Head</a> on Flickr.</p><p>It&#8217;s raining on the second day of the year :-/</p>]]></content:encoded>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/15172157524/raindrops-keep-fallin-on-my-head-on-flickr-its]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2012/01/the-mathematical-bat-2/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2012/01/the-mathematical-bat-2/</guid>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/15168909214/the-mathematical-bat]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2012/01/illumination-on-flickr/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2012/01/illumination-on-flickr/</guid>
+wordpress.xml:<p><a href="http://www.flickr.com/photos/suplabd/6610625805/" title="Illumination" target="_blank">Illumination</a> on Flickr.</p>]]></content:encoded>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/15114055705/illumination-on-flickr]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/we-miss-you-john-denver-features-rare-song-no/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2011/12/we-miss-you-john-denver-features-rare-song-no/</guid>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/15082828294/we-miss-you-john-denver-features-rare-song-no]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/i-am-listening-to-john-denver/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2011/12/i-am-listening-to-john-denver/</guid>
+wordpress.xml:        <a href="http://getglue.com/conversation/suplabdebnath/2011-12-31T08:27:34Z/?s=tu&amp;ref=suplabdebnath" target="_blank">I am listening to John Denver</a>
+wordpress.xml:     <a href="http://getglue.com/recording_artists/john_denver/?s=tu&amp;ref=suplabdebnath" target="_blank">John Denver on GetGlue.com</a>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/15074804891/i-am-listening-to-john-denver]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/if-the-programmers-like-each-other-they-play-a/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2011/12/if-the-programmers-like-each-other-they-play-a/</guid>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/15016785992/if-the-programmers-like-each-other-they-play-a]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2011/12/576/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2011/12/576/</guid>
+wordpress.xml:		<link>http://suplab.in/blog/2012/01/photographing-water/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/?p=230</guid>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.in/s/10]]></wp:meta_value>
+wordpress.xml:		<link>http://suplab.in/blog/2012/02/love-bokehs/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/?p=234</guid>
+wordpress.xml:<a href="http://www.flickr.com/photos/suplabd/6851241051/" title="Love Bokeh by beingsuplab, on Flickr"><img src="http://farm8.staticflickr.com/7154/6851241051_7ae3119839_z.jpg" width="640" height="469" alt="Love Bokeh"></a>
+wordpress.xml:<a href="http://www.flickr.com/photos/suplabd/6851244667/" title="Red and Green by beingsuplab, on Flickr"><img src="http://farm8.staticflickr.com/7042/6851244667_575ffa7e1b_z.jpg" width="640" height="492" alt="Red and Green"></a>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.in/s/3]]></wp:meta_value>
+wordpress.xml:		<link>http://suplab.in/blog/2012/02/no-fishing/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/?p=243</guid>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.in/s/2]]></wp:meta_value>
+wordpress.xml:		<link>http://suplab.in/blog/2012/07/a-guide-to-flashing-poseidon-rom-on-galaxy-sl-i9003/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/?p=249</guid>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.in/s/1]]></wp:meta_value>
+wordpress.xml:			<wp:comment_author><![CDATA[suplab]]></wp:comment_author>
+wordpress.xml:			<wp:comment_author_email>suplabdude@gmail.com</wp:comment_author_email>
+wordpress.xml:			<wp:comment_author><![CDATA[suplab]]></wp:comment_author>
+wordpress.xml:			<wp:comment_author_email>suplabdude@gmail.com</wp:comment_author_email>
+wordpress.xml:		<link>http://suplab.in/blog/2012/08/im-sorry/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2012/08/im-sorry/</guid>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/29968349546/im-sorry]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2012/02/happy-desperation-day/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2012/02/happy-desperation-day/</guid>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/17554679885/happy-desperation-day]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2012/02/venezia-by-marijan-vu-i/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2012/02/venezia-by-marijan-vu-i/</guid>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/17554344132/venezia-by-marijan-vu-i]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2012/02/love-bokeh/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2012/02/love-bokeh/</guid>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/17369428936/love-bokeh]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2012/02/cap/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2012/02/cap/</guid>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/17318819204/cap]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2012/02/img-0154/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2012/02/img-0154/</guid>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/17318209969/img-0154]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2012/02/img-0106/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2012/02/img-0106/</guid>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/17318208807/img-0106]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2012/02/img-0105/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2012/02/img-0105/</guid>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/17318207617/img-0105]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2012/02/img-0104/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2012/02/img-0104/</guid>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/17318206321/img-0104]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2012/02/img-0099/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2012/02/img-0099/</guid>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/17318205013/img-0099]]></wp:meta_value>
+wordpress.xml:		<link>http://suplab.in/blog/2012/02/img-0095/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2012/02/img-0095/</guid>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/17318203075/img-0095]]></wp:meta_value>
+wordpress.xml:		<link>http://suplab.in/blog/2012/02/img-0082/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2012/02/img-0082/</guid>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/17318201342/img-0082]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2012/02/i-am-watching-goodness-gracious-me/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2012/02/i-am-watching-goodness-gracious-me/</guid>
+wordpress.xml:        <a href="http://getglue.com/conversation/suplabdebnath/2012-02-05T04:34:25Z/?s=tu&amp;ref=suplabdebnath" target="_blank">I am watching Goodness Gracious Me</a>
+wordpress.xml:     <a href="http://getglue.com/tv_shows/goodness_gracious_me/?s=tu&amp;ref=suplabdebnath" target="_blank">Goodness Gracious Me on GetGlue.com</a>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/17073782926/i-am-watching-goodness-gracious-me]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2012/02/i-am-watching-seinfeld/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2012/02/i-am-watching-seinfeld/</guid>
+wordpress.xml:        <a href="http://getglue.com/conversation/suplabdebnath/2012-02-04T10:06:22Z/?s=tu&amp;ref=suplabdebnath" target="_blank">I am watching Seinfeld</a>
+wordpress.xml:     <a href="http://getglue.com/tv_shows/seinfeld/?s=tu&amp;ref=suplabdebnath" target="_blank">Seinfeld on GetGlue.com</a>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/17023926731/i-am-watching-seinfeld]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2012/01/i-am-watching-sherlock-the/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2012/01/i-am-watching-sherlock-the/</guid>
+wordpress.xml:        <a href="http://getglue.com/conversation/suplabdebnath/2012-01-26T13:19:24Z/?s=tu&amp;ref=suplabdebnath" target="_blank">I am watching Sherlock</a>
+wordpress.xml:     <a href="http://getglue.com/tv_shows/sherlock/?s=tu&amp;ref=suplabdebnath" target="_blank">Sherlock on GetGlue.com</a>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/16519269330/i-am-watching-sherlock-the]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2012/01/rajinikanth-website-really-runs-without-internet/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2012/01/rajinikanth-website-really-runs-without-internet/</guid>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/16212353427/rajinikanth-website-really-runs-without-internet]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2012/08/ubunchu-the-ubuntu-manga/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2012/08/ubunchu-the-ubuntu-manga/</guid>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/30593565817/ubunchu-the-ubuntu-manga]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2012/08/20-must-have-ubuntu-showdown-apps/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/2012/08/20-must-have-ubuntu-showdown-apps/</guid>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_permalink</wp:meta_key>
+wordpress.xml:			<wp:meta_value><![CDATA[http://suplab.tumblr.com/post/30032896917/20-must-have-ubuntu-showdown-apps]]></wp:meta_value>
+wordpress.xml:			<wp:meta_key>tumblr_suplab_id</wp:meta_key>
+wordpress.xml:		<link>http://suplab.in/blog/2012/12/of-ruins-and-runes/</link>
+wordpress.xml:		<guid isPermaLink="false">http://suplab.in/blog/?p=794</guid>
+wordpress.xml:<a href="http://www.flickr.com/photos/suplabd/8303295316/" title="Remains by beingsuplab, on Flickr" target="_blank"><img src="http://farm9.staticflickr.com/8494/8303295316_9e93061c54.jpg" width="360" height="400" alt="Remains"></a> <a href="http://www.flickr.com/photos/suplabd/8303171396/" title="Fountain by beingsuplab, on Flickr" target="_blank"><img src="http://farm9.staticflickr.com/8504/8303171396_3026216b2a.jpg" width="180" height="400" alt="Fountain"></a>
+wordpress.xml:<a href="http://www.flickr.com/photos/suplabd/8303273320/" title="Frozen in Time by beingsuplab, on Flickr" target="_blank"><img src="http://farm9.staticflickr.com/8214/8303273320_545b248765.jpg" width="542" height="333" alt="Frozen in Time"></a>
+wordpress.xml:<a href="http://www.flickr.com/photos/suplabd/8303225208/" title="The King's Empty Court by beingsuplab, on Flickr" target="_blank"><img src="http://farm9.staticflickr.com/8352/8303225208_627b1d34f7.jpg" width="542" height="333" alt="The King's Empty Court"></a>
+wordpress.xml:<a href="http://www.flickr.com/photos/suplabd/8303205660/" title="Times of Peace by beingsuplab, on Flickr" target="_blank"><img src="http://farm9.staticflickr.com/8077/8303205660_bed6e1fd75.jpg" width="542" height="368" alt="Times of Peace"></a>
+wordpress.xml:<a href="http://www.flickr.com/photos/suplabd/8302189985/" title="Window to the Past by beingsuplab, on Flickr" target="_blank"><img src="http://farm9.staticflickr.com/8074/8302189985_222fafe057.jpg" width="270" height="400" alt="Window to the Past"></a> <a href="http://www.flickr.com/photos/suplabd/8303198716/" title="The Gateway by beingsuplab, on Flickr" target="_blank"><img src="http://farm9.staticflickr.com/8503/8303198716_53511e7d99.jpg" width="270" height="400" alt="The Gateway"></a>
+wordpress.xml:<a href="http://www.flickr.com/photos/suplabd/8302111067/" title="Crouching Tiger by beingsuplab, on Flickr" target="_blank"><img src="http://farm9.staticflickr.com/8497/8302111067_1879350876.jpg" width="542" height="245" alt="Crouching Tiger"></a>
+wordpress.xml:<a href="http://www.flickr.com/photos/suplabd/8303155512/" title="Lookout by beingsuplab, on Flickr" target="_blank"><img src="http://farm9.staticflickr.com/8082/8303155512_577d94d6e3.jpg" width="542" height="600" alt="Lookout"></a>]]></content:encoded>
+_config.yml:url:              http://suplab.in
+_config.yml:  email:          beingsuplab@gmail.com
+_config.yml:  twitter: beingsuplab
+_config.yml:  facebook: suplabdebnath
+_config.yml:  github: suplab
+_config.yml:  linkedin: suplabdebnath
+_config.yml:  instagram: beingsuplab
+_config.yml:  tumblr: suplab
+_config.yml:  pinterest: beingsuplab
+_config.yml:  foursquare: beingsuplab
+_config.yml:    url: http://flickr.com/photos/suplabd/

@@ -26,14 +26,18 @@ This post is essentially a travelog of the Singalila Trek which I took last year
 -------
 
 # The Trip:
-The entire trip was from **Nov 7,2013 - Nov 16,2013**. All of us except Anik are currently based in Kolkata. So we decided to travel together, and catch up with Anik at Siliguri. So on the evening of 7th, I, Santanu, Anubhab, Saunak and Indra, boarded the Kanchankanya Express from Sealdah Railway Station. Onlookers gave weird glances, as we boarded the train with our rucksacks, sleeping mattresses, tents and sleeping bags.
+The entire trip was from **Nov 7,2013 - Nov 16,2013**. All of us except `Anik` are currently based in Kolkata. So we decided to travel together, and catch up with Anik at Siliguri. So on the evening of 7th, I, Santanu, Anubhab, Saunak and Indra, boarded the `Kanchankanya Express` from Sealdah Railway Station. Onlookers gave weird glances, as we boarded the train with our rucksacks, sleeping mattresses, tents and sleeping bags.
+
+I got a surprise, when the guys pulled out a birthday cake and I celebrated my B'Day right there on the station.
 
 The journey itself was quite eventful really! We shared the coupe with a south indian family, who were pretty sure that, we were occupying their seats. :P
 That got sorted quickly, and the train started chugging towards New Jalpaiguri (NJP).
 Our journey had finally started. The mountains were calling!!!
 
 ### Day 1 - NJP to Hilley
-We reached NJP station the following morning. The train was late by half an hour. It was time to meet the final member of the team, Anik. Anik currently a resident in Pune, had reached Siliguri the previous day. 
+We reached NJP station the following morning. The train was late by half an hour. It was time to meet the final member of the team, Anik. Anik currently a resident in Pune, had reached Siliguri the previous day. The plan was he would buy the rations before hand, so that we could leave for Hilley right away. As planned Anik had done his job, we met him at Siliguri where he was waiting with the rations and kerosene, and even a pressure-cooker for the trip.
+ 
+ After a much required breakfast for our famished souls, we started looking for a ride to Hilley. That was quite a challenge in itself. A little barganing, and a little convincing, and we settled for a 4500 INR shared ride to Hilley.
 
 
 ### Day 2 - Hilley to Deoningaly Dhap
